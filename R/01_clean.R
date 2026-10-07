@@ -12,7 +12,7 @@ library(dplyr) # select, filter
 # Empty cells are read as NA so missing values are hundled consistenly
 catalog_raw <- read.csv(
   here("data", "raw", "project_catalog.csv"),
-  na.strings = c("", "NA")
+  na.strings = c("", "NA","Error!!!")
 )
 
 stopifnot(nrow(catalog_raw) > 0)

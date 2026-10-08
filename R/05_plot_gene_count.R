@@ -113,7 +113,8 @@ gene_count_species_plot <- ggplot(
 ggsave(
   filename = here("figures", "gene_count_by_site_species.png"),
   plot     = gene_count_species_plot,
-  width    = 9, height = 5, dpi = 300
+  width    = 9, height = 5, dpi = 300, 
+  device = ragg::agg_png
 )
 
 stopifnot(file.exists(here("figures", "gene_count_by_site_species.png")))

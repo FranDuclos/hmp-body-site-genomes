@@ -1,0 +1,1507 @@
+"body_site","organism","genus","species","gene_count","ncbi_project_id"
+"airways","Achromobacter piechaudii ATCC 43553","Achromobacter","Achromobacter piechaudii",5755,46343
+"airways","Achromobacter xylosoxidans C54","Achromobacter","Achromobacter xylosoxidans",6010,38739
+"airways","Acinetobacter haemolyticus ATCC 19194","Acinetobacter","Acinetobacter haemolyticus",3491,43187
+"airways","Actinobacillus ureae ATCC 25976","Actinobacillus","Actinobacillus ureae",2475,52977
+"airways","Actinomyces graevenitzii C83","Actinomyces","Actinomyces graevenitzii",1853,38761
+"airways","Actinomyces odontolyticus F0309","Actinomyces","Actinomyces odontolyticus",2372,38309
+"airways","Actinomyces viscosus C505","Actinomyces","Actinomyces viscosus",2587,38743
+"airways","Corynebacterium accolens ATCC 49725","Corynebacterium","Corynebacterium accolens",2333,31443
+"airways","Corynebacterium accolens ATCC 49726","Corynebacterium","Corynebacterium accolens",2360,50523
+"airways","Corynebacterium sp. KPL1824","Corynebacterium",NA,2458,169441
+"airways","Gemella haemolysans M341","Gemella","Gemella haemolysans",1933,38763
+"airways","Gemella moribillum M424","Gemella","Gemella moribillum",1622,38781
+"airways","Gemella sanguinis M325","Gemella","Gemella sanguinis",1675,38783
+"airways","Kingella denitrificans ATCC 33394","Kingella","Kingella denitrificans",2518,53051
+"airways","Kingella kingae ATCC 23330","Kingella","Kingella kingae",2102,52985
+"airways","Klebsiella pneumoniae subsp. pneumoniae WGLW2","Klebsiella","Klebsiella pneumoniae",5292,169454
+"airways","Klebsiella pneumoniae subsp. rhinoscleromatis","Klebsiella","Klebsiella pneumoniae",5671,40083
+"airways","Neisseria cinerea ATCC 14685","Neisseria","Neisseria cinerea",2127,30469
+"airways","Neisseria elongata subsp. glycolytica ATCC 29315","Neisseria","Neisseria elongata",3109,30471
+"airways","Neisseria flavescens NRL30031/H210","Neisseria","Neisseria flavescens",2531,30473
+"airways","Neisseria lactamica ATCC 23970","Neisseria","Neisseria lactamica",2716,30475
+"airways","Neisseria meningitidis ATCC 13091","Neisseria","Neisseria meningitidis",2457,50525
+"airways","Neisseria mucosa ATCC 25996","Neisseria","Neisseria mucosa",3148,30477
+"airways","Neisseria mucosa C102","Neisseria","Neisseria mucosa",2026,38747
+"airways","Neisseria polysaccharea ATCC 43768","Neisseria","Neisseria polysaccharea",2577,30479
+"airways","Neisseria shayeganii 871","Neisseria","Neisseria shayeganii",2530,66915
+"airways","Neisseria sicca ATCC 29256","Neisseria","Neisseria sicca",3660,30481
+"airways","Neisseria sp. HMSC06F02","Neisseria",NA,2886,269893
+"airways","Pasteurella dagmatis ATCC 43325","Pasteurella","Pasteurella dagmatis",2053,40085
+"airways","Prevotella oris C735","Prevotella","Prevotella oris",2714,42537
+"airways","Prevotella sp. C561","Prevotella",NA,3402,41971
+"airways","Pseudomonas sp. HMSC05H02","Pseudomonas",NA,6443,269887
+"airways","Rothia dentocariosa M567","Rothia","Rothia dentocariosa",2185,42539
+"airways","Rothia mucilaginosa ATCC 25296","Rothia","Rothia mucilaginosa",1737,31405
+"airways","Rothia mucilaginosa M508","Rothia","Rothia mucilaginosa",1790,38789
+"airways","Segniliparus rugosus ATCC BAA-974","Segniliparus","Segniliparus rugosus",3502,40685
+"airways","Serratia odorifera DSM 4582","Serratia","Serratia odorifera",5121,40087
+"airways","Staphylococcus aureus subsp. aureus","Staphylococcus","Staphylococcus aureus",2693,48445
+"airways","Staphylococcus aureus subsp. aureus ATCC BAA-39","Staphylococcus","Staphylococcus aureus",2836,50533
+"airways","Staphylococcus caprae C87","Staphylococcus","Staphylococcus caprae",2472,38749
+"airways","Staphylococcus hominis subsp. hominis C80","Staphylococcus","Staphylococcus hominis",2249,38759
+"airways","Streptococcus constellatus constellatus SK53, ATCC 27823","Streptococcus","Streptococcus constellatus",1825,75127
+"airways","Streptococcus infantis ATCC 700779","Streptococcus","Streptococcus infantis",1928,53205
+"airways","Streptococcus oralis SK610","Streptococcus","Streptococcus oralis",1895,75167
+"airways","Streptococcus parasanguinis ATCC 903","Streptococcus","Streptococcus parasanguinis",2080,53003
+"airways","Streptococcus pneumoniae TCH8431/19A","Streptococcus","Streptococcus pneumoniae",2275,34659
+"airways","Streptococcus pseudopneumoniae ATCC BAA-960","Streptococcus","Streptococcus pseudopneumoniae",2113,75131
+"airways","Streptococcus pseudopneumoniae SK674","Streptococcus","Streptococcus pseudopneumoniae",2154,75159
+"airways","Streptococcus pyogenes ATCC 10782","Streptococcus","Streptococcus pyogenes",1943,50517
+"airways","Streptococcus sp. C150","Streptococcus",NA,2045,38751
+"airways","Streptococcus sp. C300","Streptococcus",NA,1968,38753
+"airways","Streptococcus sp. M143","Streptococcus",NA,1852,38755
+"airways","Streptococcus sp. M334","Streptococcus",NA,2145,38757
+"blood","Bacteroides massiliensis str. Timone 84634","Bacteroides","Bacteroides massiliensis",3935,170352
+"blood","Cardiobacterium hominis ATCC 15826","Cardiobacterium","Cardiobacterium hominis",2581,37269
+"blood","Desmospora sp. 8437","Desmospora",NA,4048,64725
+"blood","Enterococcus faecalis DAPTO 512","Enterococcus","Enterococcus faecalis",3104,47125
+"blood","Enterococcus faecalis DAPTO 516","Enterococcus","Enterococcus faecalis",3100,47127
+"blood","Enterococcus faecalis R712","Enterococcus","Enterococcus faecalis",3086,42527
+"blood","Enterococcus faecalis S613","Enterococcus","Enterococcus faecalis",3096,42525
+"blood","Enterococcus faecalis TX0012","Enterococcus","Enterococcus faecalis",2743,47145
+"blood","Enterococcus faecalis TX0017","Enterococcus","Enterococcus faecalis",3074,47147
+"blood","Enterococcus faecalis TX0027","Enterococcus","Enterococcus faecalis",3124,47151
+"blood","Enterococcus faecalis TX0031","Enterococcus","Enterococcus faecalis",2759,47153
+"blood","Enterococcus faecalis TX0043","Enterococcus","Enterococcus faecalis",2838,47155
+"blood","Enterococcus faecalis TX0102","Enterococcus","Enterococcus faecalis",2831,47157
+"blood","Enterococcus faecalis TX0109","Enterococcus","Enterococcus faecalis",2987,47159
+"blood","Enterococcus faecalis TX0630","Enterococcus","Enterococcus faecalis",3411,47171
+"blood","Enterococcus faecalis TX0645","Enterococcus","Enterococcus faecalis",3278,47175
+"blood","Enterococcus faecalis TX0860","Enterococcus","Enterococcus faecalis",3114,47179
+"blood","Enterococcus faecalis TX2141","Enterococcus","Enterococcus faecalis",2970,47131
+"blood","Enterococcus faecium DO","Enterococcus","Enterococcus faecium",3114,30627
+"blood","Enterococcus faecium TX0082","Enterococcus","Enterococcus faecium",2813,47193
+"blood","Enterococcus faecium TX0133B","Enterococcus","Enterococcus faecium",3110,47201
+"blood","Enterococcus faecium TX0133C","Enterococcus","Enterococcus faecium",3097,47203
+"blood","Enterococcus faecium TX0133a01","Enterococcus","Enterococcus faecium",3262,47197
+"blood","Enterococcus faecium TX0133a04","Enterococcus","Enterococcus faecium",3097,47199
+"blood","Enterococcus faecium TX0133a04 TX0133A","Enterococcus","Enterococcus faecium",3118,47195
+"blood","Gemella bergeriae ATCC 700627","Gemella","Gemella bergeriae",1541,198886
+"blood","Haemophilus sputorum HK 2154","Haemophilus","Haemophilus sputorum",1987,89619
+"blood","Parabacteroides gordonii MS-1","Parabacteroides","Parabacteroides gordonii",5358,170354
+"blood","Psychrobacter sp. 1501(2011)","Psychrobacter",NA,2660,65121
+"blood","Sporosarcina newyorkensis 2681","Sporosarcina","Sporosarcina newyorkensis",3825,64749
+"blood","Staphylococcus aureus 880","Staphylococcus","Staphylococcus aureus",2889,183704
+"blood","Streptococcus anginosus SK1138","Streptococcus","Streptococcus anginosus",1945,89617
+"blood","Streptococcus mitis SK575","Streptococcus","Streptococcus mitis",1937,75135
+"blood","Streptococcus mitis SK579","Streptococcus","Streptococcus mitis",1908,75157
+"blood","Streptococcus mitis SK616","Streptococcus","Streptococcus mitis",1910,75129
+"blood","Streptococcus oralis SK10","Streptococcus","Streptococcus oralis",1879,75161
+"blood","Streptococcus oralis SK1074","Streptococcus","Streptococcus oralis",1763,75133
+"blood","Streptococcus pneumoniae PNI0212","Streptococcus","Streptococcus pneumoniae",2190,89201
+"blood","Streptococcus pyogenes UTMEM-1","Streptococcus","Streptococcus pyogenes",1881,78605
+"blood","Streptococcus sanguinis SK1056","Streptococcus","Streptococcus sanguinis",2377,53181
+"blood","Streptococcus sanguinis SK1057","Streptococcus","Streptococcus sanguinis",2322,53183
+"blood","Streptococcus sanguinis SK1058","Streptococcus","Streptococcus sanguinis",2331,53185
+"blood","Streptococcus sanguinis SK1059","Streptococcus","Streptococcus sanguinis",2418,53187
+"blood","Streptococcus sanguinis SK1087","Streptococcus","Streptococcus sanguinis",2320,53189
+"blood","Streptococcus sanguinis SK405","Streptococcus","Streptococcus sanguinis",2257,53175
+"blood","Streptococcus sanguinis SK408","Streptococcus","Streptococcus sanguinis",2391,53177
+"blood","Streptococcus sanguinis SK678","Streptococcus","Streptococcus sanguinis",2250,53179
+"blood","Streptococcus sanguinis VMC66","Streptococcus","Streptococcus sanguinis",2260,53191
+"gastrointestinal_tract","Acidaminococcus sp. HPA0509","Acidaminococcus",NA,2108,169431
+"gastrointestinal_tract","Acinetobacter junii SH205","Acinetobacter","Acinetobacter junii",3252,38341
+"gastrointestinal_tract","Acinetobacter radioresistens SH164","Acinetobacter","Acinetobacter radioresistens",2938,38345
+"gastrointestinal_tract","Actinomyces sp. HPA0247","Actinomyces",NA,2007,169432
+"gastrointestinal_tract","Alistipes indistinctus YIT 12060","Alistipes","Alistipes indistinctus",2348,46373
+"gastrointestinal_tract","Alistipes putredinis DSM 17216","Alistipes","Alistipes putredinis",2742,19655
+"gastrointestinal_tract","Anaerobaculum hydrogeniformans ATCC BAA-1850","Anaerobaculum","Anaerobaculum hydrogeniformans",2197,33123
+"gastrointestinal_tract","Anaerococcus hydrogenalis DSM 7454","Anaerococcus","Anaerococcus hydrogenalis",2069,30747
+"gastrointestinal_tract","Anaerofustis stercorihominis DSM 17244","Anaerofustis","Anaerofustis stercorihominis",2331,19657
+"gastrointestinal_tract","Anaerostipes caccae DSM 14662","Anaerostipes","Anaerostipes caccae",3748,18213
+"gastrointestinal_tract","Anaerostipes hadrus DSM 3319","Anaerostipes","Anaerostipes hadrus",2791,38323
+"gastrointestinal_tract","Anaerotruncus colihominis DSM 17241","Anaerotruncus","Anaerotruncus colihominis",4427,19659
+"gastrointestinal_tract","Aneurinibacillus aneurinilyticus ATCC 12856","Aneurinibacillus","Aneurinibacillus aneurinilyticus",6214,38313
+"gastrointestinal_tract","Arcobacter butzleri JV22","Arcobacter","Arcobacter butzleri",2381,53195
+"gastrointestinal_tract","Bacteroides caccae ATCC 43185","Bacteroides","Bacteroides caccae",3855,18163
+"gastrointestinal_tract","Bacteroides capillosus ATCC 29799","Bacteroides","Bacteroides capillosus",4833,18173
+"gastrointestinal_tract","Bacteroides cellulosilyticus DSM 14838","Bacteroides","Bacteroides cellulosilyticus",5719,30027
+"gastrointestinal_tract","Bacteroides clarus YIT 12056","Bacteroides","Bacteroides clarus",3272,48509
+"gastrointestinal_tract","Bacteroides coprocola DSM 17136","Bacteroides","Bacteroides coprocola",4291,20521
+"gastrointestinal_tract","Bacteroides coprophilus DSM 18228","Bacteroides","Bacteroides coprophilus",3838,30371
+"gastrointestinal_tract","Bacteroides dorei DSM 17855","Bacteroides","Bacteroides dorei",4966,27831
+"gastrointestinal_tract","Bacteroides eggerthii 1_2_48FAA","Bacteroides","Bacteroides eggerthii",3924,40009
+"gastrointestinal_tract","Bacteroides eggerthii DSM 20697","Bacteroides","Bacteroides eggerthii",3711,27827
+"gastrointestinal_tract","Bacteroides finegoldii DSM 17565","Bacteroides","Bacteroides finegoldii",4485,27823
+"gastrointestinal_tract","Bacteroides fluxus","Bacteroides","Bacteroides fluxus",3921,48511
+"gastrointestinal_tract","Bacteroides fragilis 3_1_12","Bacteroides","Bacteroides fragilis",4842,32433
+"gastrointestinal_tract","Bacteroides intestinalis DSM 17393","Bacteroides","Bacteroides intestinalis",4911,20523
+"gastrointestinal_tract","Bacteroides oleiciplenus","Bacteroides","Bacteroides oleiciplenus",5530,46377
+"gastrointestinal_tract","Bacteroides ovatus ATCC 8483","Bacteroides","Bacteroides ovatus",5536,18191
+"gastrointestinal_tract","Bacteroides ovatus SD CC 2a","Bacteroides","Bacteroides ovatus",4915,42771
+"gastrointestinal_tract","Bacteroides pectinophilus ATCC 43243","Bacteroides","Bacteroides pectinophilus",3246,27825
+"gastrointestinal_tract","Bacteroides plebeius DSM 17135","Bacteroides","Bacteroides plebeius",3933,27829
+"gastrointestinal_tract","Bacteroides salyersiae WAL 10018","Bacteroides","Bacteroides salyersiae",4152,170350
+"gastrointestinal_tract","Bacteroides sp. 1_1_14","Bacteroides",NA,4829,38765
+"gastrointestinal_tract","Bacteroides sp. 1_1_30","Bacteroides",NA,5299,41955
+"gastrointestinal_tract","Bacteroides sp. 1_1_6","Bacteroides",NA,5429,32435
+"gastrointestinal_tract","Bacteroides sp. 20_3","Bacteroides",NA,4957,38767
+"gastrointestinal_tract","Bacteroides sp. 2_1_16","Bacteroides",NA,4683,38347
+"gastrointestinal_tract","Bacteroides sp. 2_1_22","Bacteroides",NA,4814,38349
+"gastrointestinal_tract","Bacteroides sp. 3_1_13","Bacteroides",NA,5007,38769
+"gastrointestinal_tract","Bacteroides sp. 3_1_19","Bacteroides",NA,4328,41951
+"gastrointestinal_tract","Bacteroides sp. 3_1_23","Bacteroides",NA,4983,38771
+"gastrointestinal_tract","Bacteroides sp. 3_1_40A","Bacteroides",NA,4564,38773
+"gastrointestinal_tract","Bacteroides sp. 3_2_5","Bacteroides",NA,4131,32441
+"gastrointestinal_tract","Bacteroides sp. 9_1_42FAA","Bacteroides",NA,4532,32445
+"gastrointestinal_tract","Bacteroides sp. D1","Bacteroides",NA,4686,32447
+"gastrointestinal_tract","Bacteroides sp. D2","Bacteroides",NA,5200,32449
+"gastrointestinal_tract","Bacteroides sp. HPS0048","Bacteroides",NA,4867,72497
+"gastrointestinal_tract","Bacteroides stercoris ATCC 43183","Bacteroides","Bacteroides stercoris",3777,19859
+"gastrointestinal_tract","Bacteroides uniformis ATCC 8492","Bacteroides","Bacteroides uniformis",4663,18195
+"gastrointestinal_tract","Barnesiella intestinihominis YIT 11860","Barnesiella","Barnesiella intestinihominis",2813,46375
+"gastrointestinal_tract","Bifidobacterium adolescentis L2-32","Bifidobacterium","Bifidobacterium adolescentis",2428,18197
+"gastrointestinal_tract","Bifidobacterium angulatum DSM 20098","Bifidobacterium","Bifidobacterium angulatum",1748,29261
+"gastrointestinal_tract","Bifidobacterium bifidum ATCC 29521 = JCM 1255","Bifidobacterium","Bifidobacterium bifidum",2109,28655
+"gastrointestinal_tract","Bifidobacterium bifidum NCIMB 41171","Bifidobacterium","Bifidobacterium bifidum",1889,30055
+"gastrointestinal_tract","Bifidobacterium breve DSM 20213","Bifidobacterium","Bifidobacterium breve",2263,29259
+"gastrointestinal_tract","Bifidobacterium breve HPH0326","Bifidobacterium","Bifidobacterium breve",2137,169434
+"gastrointestinal_tract","Bifidobacterium catenulatum DSM 16992","Bifidobacterium","Bifidobacterium catenulatum",1950,30749
+"gastrointestinal_tract","Bifidobacterium dentium ATCC 27678","Bifidobacterium","Bifidobacterium dentium",2430,20555
+"gastrointestinal_tract","Bifidobacterium gallicum DSM 20093","Bifidobacterium","Bifidobacterium gallicum",1918,30751
+"gastrointestinal_tract","Bifidobacterium longum subsp. infantis ATCC 55813","Bifidobacterium","Bifidobacterium longum",2109,31437
+"gastrointestinal_tract","Bifidobacterium longum subsp. infantis CCUG 52486","Bifidobacterium","Bifidobacterium longum",2179,30065
+"gastrointestinal_tract","Bifidobacterium longum subsp. longum 2-2B","Bifidobacterium","Bifidobacterium longum",2412,89651
+"gastrointestinal_tract","Bifidobacterium longum subsp. longum 44B","Bifidobacterium","Bifidobacterium longum",2262,89645
+"gastrointestinal_tract","Bifidobacterium pseudocatenulatum DSM 20438","Bifidobacterium","Bifidobacterium pseudocatenulatum",2151,30373
+"gastrointestinal_tract","Bilophila sp. 4_1_30","Bilophila",NA,4114,41961
+"gastrointestinal_tract","Bilophila wadsworthia 3_1_6","Bilophila","Bilophila wadsworthia",3786,41963
+"gastrointestinal_tract","Blautia hansenii DSM 20583","Blautia","Blautia hansenii",3171,30021
+"gastrointestinal_tract","Blautia hydrogenotrophica DSM 10507","Blautia","Blautia hydrogenotrophica",3869,21007
+"gastrointestinal_tract","Blautia sp. KLE 1732","Blautia",NA,3783,173639
+"gastrointestinal_tract","Bryantella formatexigens DSM 14469","Bryantella","Bryantella formatexigens",4896,21051
+"gastrointestinal_tract","Butyricicoccus pullicaecorum 1.2","Butyricicoccus","Butyricicoccus pullicaecorum",3112,170345
+"gastrointestinal_tract","Butyrivibrio crossotus DSM 2876","Butyrivibrio","Butyrivibrio crossotus",2529,28999
+"gastrointestinal_tract","Campylobacter coli JV20","Campylobacter","Campylobacter coli",1773,50513
+"gastrointestinal_tract","Campylobacter upsaliensis JV21","Campylobacter","Campylobacter upsaliensis",1705,53193
+"gastrointestinal_tract","Catenibacterium mitsuokai DSM 15897","Catenibacterium","Catenibacterium mitsuokai",2977,19923
+"gastrointestinal_tract","Cedecea davisae DSM 4568","Cedecea","Cedecea davisae",4805,30753
+"gastrointestinal_tract","Cetobacterium somerae ATCC BAA-474","Cetobacterium","Cetobacterium somerae",2975,210739
+"gastrointestinal_tract","Citrobacter youngae ATCC 29220","Citrobacter","Citrobacter youngae",5278,28665
+"gastrointestinal_tract","Clostridium asparagiforme DSM 15981","Clostridium","Clostridium asparagiforme",6818,29263
+"gastrointestinal_tract","Clostridium bolteae ATCC BAA-613","Clostridium","Clostridium bolteae",7284,18165
+"gastrointestinal_tract","Clostridium bolteae WAL-14578","Clostridium","Clostridium bolteae",6063,46383
+"gastrointestinal_tract","Clostridium celatum DSM 1785","Clostridium","Clostridium celatum",3453,30375
+"gastrointestinal_tract","Clostridium citroniae WAL-17108","Clostridium","Clostridium citroniae",6079,46385
+"gastrointestinal_tract","Clostridium citroniae WAL-19142","Clostridium","Clostridium citroniae",5704,46387
+"gastrointestinal_tract","Clostridium clostridioforme 2_1_49FAA","Clostridium","Clostridium clostridioforme",5256,46389
+"gastrointestinal_tract","Clostridium clostridioforme WAL-7855","Clostridium","Clostridium clostridioforme",5224,46391
+"gastrointestinal_tract","Clostridium difficile 70-100-2010","Clostridium","Clostridium difficile",3739,65135
+"gastrointestinal_tract","Clostridium difficile NAP07","Clostridium","Clostridium difficile",3590,31439
+"gastrointestinal_tract","Clostridium difficile NAP08","Clostridium","Clostridium difficile",3765,31441
+"gastrointestinal_tract","Clostridium hathewayi DSM 13479","Clostridium","Clostridium hathewayi",7572,30755
+"gastrointestinal_tract","Clostridium hathewayi WAL-18680","Clostridium","Clostridium hathewayi",5183,46393
+"gastrointestinal_tract","Clostridium hiranonis DSM 13275","Clostridium","Clostridium hiranonis",2271,28657
+"gastrointestinal_tract","Clostridium hylemonae DSM 15053","Clostridium","Clostridium hylemonae",3976,30369
+"gastrointestinal_tract","Clostridium leptum DSM 753","Clostridium","Clostridium leptum",3923,18923
+"gastrointestinal_tract","Clostridium methylpentosum DSM 5476","Clostridium","Clostridium methylpentosum",3907,30029
+"gastrointestinal_tract","Clostridium nexile DSM 1787","Clostridium","Clostridium nexile",4239,28659
+"gastrointestinal_tract","Clostridium orbiscindens 1_3_50AFAA","Clostridium","Clostridium orbiscindens",4335,46395
+"gastrointestinal_tract","Clostridium perfringens WAL-14572","Clostridium","Clostridium perfringens",3183,46397
+"gastrointestinal_tract","Clostridium ramosum DSM 1402","Clostridium","Clostridium ramosum",3169,19663
+"gastrointestinal_tract","Clostridium scindens ATCC 35704","Clostridium","Clostridium scindens",3995,18175
+"gastrointestinal_tract","Clostridium sp. 1_1_41A1FAA","Clostridium",NA,2952,39361
+"gastrointestinal_tract","Clostridium sp. ATCC 29733","Clostridium",NA,3692,181040
+"gastrointestinal_tract","Clostridium sp. ATCC BAA-442","Clostridium",NA,5243,38735
+"gastrointestinal_tract","Clostridium sp. D5","Clostridium",NA,4553,32459
+"gastrointestinal_tract","Clostridium sp. HGF2","Clostridium",NA,4201,54027
+"gastrointestinal_tract","Clostridium sp. KLE 1755","Clostridium",NA,6959,173640
+"gastrointestinal_tract","Clostridium sp. L2-50","Clostridium",NA,2949,18211
+"gastrointestinal_tract","Clostridium sp. M62/1","Clostridium",NA,4164,18205
+"gastrointestinal_tract","Clostridium sp. SS2/1","Clostridium",NA,3167,18201
+"gastrointestinal_tract","Clostridium spiroforme DSM 1552","Clostridium","Clostridium spiroforme",2465,18925
+"gastrointestinal_tract","Clostridium sporogenes ATCC 15579","Clostridium","Clostridium sporogenes",3767,20549
+"gastrointestinal_tract","Clostridium symbiosum ATCC 14940","Clostridium","Clostridium symbiosum",4978,18183
+"gastrointestinal_tract","Clostridium symbiosum WAL-14163","Clostridium","Clostridium symbiosum",4688,46399
+"gastrointestinal_tract","Clostridium symbiosum WAL-14673","Clostridium","Clostridium symbiosum",4194,46401
+"gastrointestinal_tract","Collinsella aerofaciens ATCC 25986","Collinsella","Collinsella aerofaciens",2367,18167
+"gastrointestinal_tract","Collinsella intestinalis DSM 13280","Collinsella","Collinsella intestinalis",1784,29307
+"gastrointestinal_tract","Collinsella sp. 4_8_47FAA","Collinsella",NA,2041,46367
+"gastrointestinal_tract","Collinsella stercoris DSM 13279","Collinsella","Collinsella stercoris",2529,19665
+"gastrointestinal_tract","Collinsella tanakaei","Collinsella","Collinsella tanakaei",2212,46403
+"gastrointestinal_tract","Coprobacillus sp. 29_1","Coprobacillus",NA,3845,46361
+"gastrointestinal_tract","Coprobacillus sp. 3_3_56FAA","Coprobacillus",NA,3955,40019
+"gastrointestinal_tract","Coprobacillus sp. 8_1_38FAA","Coprobacillus",NA,2349,39363
+"gastrointestinal_tract","Coprococcus comes ATCC 27758","Coprococcus","Coprococcus comes",3913,20525
+"gastrointestinal_tract","Coprococcus eutactus ATCC 27759","Coprococcus","Coprococcus eutactus",2982,18187
+"gastrointestinal_tract","Coprococcus sp. HPP0048","Coprococcus",NA,2604,72501
+"gastrointestinal_tract","Coprococcus sp. HPP0074","Coprococcus",NA,2863,72499
+"gastrointestinal_tract","Corynebacterium ammoniagenes DSM 20306","Corynebacterium","Corynebacterium ammoniagenes",2654,38319
+"gastrointestinal_tract","Corynebacterium sp. HFH0082","Corynebacterium",NA,2120,72477
+"gastrointestinal_tract","Dermabacter sp. HFH0086","Dermabacter",NA,2133,169448
+"gastrointestinal_tract","Desulfitobacterium hafniense DP7","Desulfitobacterium","Desulfitobacterium hafniense",5407,30023
+"gastrointestinal_tract","Desulfovibrio piger ATCC 29098","Desulfovibrio","Desulfovibrio piger",3114,18161
+"gastrointestinal_tract","Desulfovibrio sp. 3_1_syn3","Desulfovibrio",NA,3096,42529
+"gastrointestinal_tract","Dialister succinatiphilus","Dialister","Dialister succinatiphilus",2155,46405
+"gastrointestinal_tract","Dorea formicigenerans 4_6_53AFAA","Dorea","Dorea formicigenerans",3840,46407
+"gastrointestinal_tract","Dorea formicigenerans ATCC 27755","Dorea","Dorea formicigenerans",3277,18155
+"gastrointestinal_tract","Dorea longicatena DSM 13814","Dorea","Dorea longicatena",2970,18157
+"gastrointestinal_tract","Dysgonomonas gadei ATCC BAA-286","Dysgonomonas","Dysgonomonas gadei",4156,46409
+"gastrointestinal_tract","Dysgonomonas mossii DSM 22836","Dysgonomonas","Dysgonomonas mossii",3429,46411
+"gastrointestinal_tract","Edwardsiella tarda ATCC 23685","Edwardsiella","Edwardsiella tarda",3964,28661
+"gastrointestinal_tract","Eggerthella lenta 1_1_60AFAA","Eggerthella","Eggerthella lenta",3296,46413
+"gastrointestinal_tract","Eggerthella sp. HGA1","Eggerthella",NA,3021,59527
+"gastrointestinal_tract","Enterobacter cancerogenus ATCC 35316","Enterobacter","Enterobacter cancerogenus",4618,28663
+"gastrointestinal_tract","Enterococcus faecalis 918","Enterococcus","Enterococcus faecalis",3546,205838
+"gastrointestinal_tract","Enterococcus faecalis TX0104","Enterococcus","Enterococcus faecalis",3273,30623
+"gastrointestinal_tract","Enterococcus faecalis TX1302","Enterococcus","Enterococcus faecalis",2853,47181
+"gastrointestinal_tract","Enterococcus faecalis TX1322","Enterococcus","Enterococcus faecalis",3006,31461
+"gastrointestinal_tract","Enterococcus faecalis TX1341","Enterococcus","Enterococcus faecalis",3035,47183
+"gastrointestinal_tract","Enterococcus faecalis TX1342","Enterococcus","Enterococcus faecalis",2793,47185
+"gastrointestinal_tract","Enterococcus faecalis TX1346","Enterococcus","Enterococcus faecalis",2827,47187
+"gastrointestinal_tract","Enterococcus faecalis TX1467","Enterococcus","Enterococcus faecalis",3510,47189
+"gastrointestinal_tract","Enterococcus faecalis TX2134","Enterococcus","Enterococcus faecalis",3196,47191
+"gastrointestinal_tract","Enterococcus faecalis TX2137","Enterococcus","Enterococcus faecalis",3000,47129
+"gastrointestinal_tract","Enterococcus faecalis TX4244","Enterococcus","Enterococcus faecalis",2902,47141
+"gastrointestinal_tract","Enterococcus faecium TX1330","Enterococcus","Enterococcus faecium",2777,31463
+"gastrointestinal_tract","Enterococcus saccharolyticus 30_1","Enterococcus","Enterococcus saccharolyticus",3011,46415
+"gastrointestinal_tract","Erysipelotrichaceae bacterium 21_3",NA,NA,4324,39369
+"gastrointestinal_tract","Escherichia coli D9","Escherichia","Escherichia coli",4526,32507
+"gastrointestinal_tract","Escherichia coli MS 110-3","Escherichia","Escherichia coli",5429,47225
+"gastrointestinal_tract","Escherichia coli MS 115-1","Escherichia","Escherichia coli",5021,47227
+"gastrointestinal_tract","Escherichia coli MS 116-1","Escherichia","Escherichia coli",5162,47229
+"gastrointestinal_tract","Escherichia coli MS 117-3","Escherichia","Escherichia coli",5376,47231
+"gastrointestinal_tract","Escherichia coli MS 146-1","Escherichia","Escherichia coli",4955,47241
+"gastrointestinal_tract","Escherichia coli MS 153-1","Escherichia","Escherichia coli",5467,47257
+"gastrointestinal_tract","Escherichia coli MS 16-3","Escherichia","Escherichia coli",5291,47259
+"gastrointestinal_tract","Escherichia coli MS 175-1","Escherichia","Escherichia coli",4870,47263
+"gastrointestinal_tract","Escherichia coli MS 182-1","Escherichia","Escherichia coli",5317,47265
+"gastrointestinal_tract","Escherichia coli MS 185-1","Escherichia","Escherichia coli",5194,47267
+"gastrointestinal_tract","Escherichia coli MS 187-1","Escherichia","Escherichia coli",4489,47269
+"gastrointestinal_tract","Escherichia coli MS 196-1","Escherichia","Escherichia coli",5586,47271
+"gastrointestinal_tract","Escherichia coli MS 198 -1","Escherichia","Escherichia coli",5606,47273
+"gastrointestinal_tract","Escherichia coli MS 200-1","Escherichia","Escherichia coli",5343,47275
+"gastrointestinal_tract","Escherichia coli MS 21-1","Escherichia","Escherichia coli",5744,47205
+"gastrointestinal_tract","Escherichia coli MS 45-1","Escherichia","Escherichia coli",5238,47207
+"gastrointestinal_tract","Escherichia coli MS 57-2","Escherichia","Escherichia coli",5226,47209
+"gastrointestinal_tract","Escherichia coli MS 60-1","Escherichia","Escherichia coli",5649,47211
+"gastrointestinal_tract","Escherichia coli MS 69-1","Escherichia","Escherichia coli",5482,47213
+"gastrointestinal_tract","Escherichia coli MS 78-1","Escherichia","Escherichia coli",4992,47217
+"gastrointestinal_tract","Escherichia coli MS 84-1","Escherichia","Escherichia coli",5710,47219
+"gastrointestinal_tract","Escherichia coli SE11","Escherichia","Escherichia coli",5002,18057
+"gastrointestinal_tract","Escherichia sp. 4_1_40B","Escherichia",NA,4498,32467
+"gastrointestinal_tract","Eubacterium biforme DSM 3989","Eubacterium","Eubacterium biforme",2529,29269
+"gastrointestinal_tract","Eubacterium cylindroides ATCC 27803","Eubacterium","Eubacterium cylindroides",2057,38321
+"gastrointestinal_tract","Eubacterium dolichum DSM 3991","Eubacterium","Eubacterium dolichum",2350,18927
+"gastrointestinal_tract","Eubacterium hallii DSM 3353","Eubacterium","Eubacterium hallii",3233,18177
+"gastrointestinal_tract","Eubacterium ramulus ATCC 29099","Eubacterium","Eubacterium ramulus",3461,181041
+"gastrointestinal_tract","Eubacterium siraeum DSM 15702","Eubacterium","Eubacterium siraeum",2703,18921
+"gastrointestinal_tract","Eubacterium ventriosum ATCC 27560","Eubacterium","Eubacterium ventriosum",2802,18159
+"gastrointestinal_tract","Faecalibacterium cf. prausnitzii KLE1255","Faecalibacterium","Faecalibacterium cf.",3355,46809
+"gastrointestinal_tract","Faecalibacterium prausnitzii A2-165","Faecalibacterium","Faecalibacterium prausnitzii",3475,18199
+"gastrointestinal_tract","Faecalibacterium prausnitzii M21/2","Faecalibacterium","Faecalibacterium prausnitzii",3493,18203
+"gastrointestinal_tract","Flavonifractor plautii ATCC 29863","Flavonifractor","Flavonifractor plautii",4278,18189
+"gastrointestinal_tract","Fusobacterium gonidiaformans ATCC 25563","Fusobacterium","Fusobacterium gonidiaformans",1618,32419
+"gastrointestinal_tract","Fusobacterium mortiferum ATCC 9817","Fusobacterium","Fusobacterium mortiferum",2538,32421
+"gastrointestinal_tract","Fusobacterium necrophorum subsp. funduliforme","Fusobacterium","Fusobacterium necrophorum",3197,46417
+"gastrointestinal_tract","Fusobacterium nucleatum 13_3C","Fusobacterium","Fusobacterium nucleatum",2454,212676
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-1","Fusobacterium","Fusobacterium nucleatum",2274,170356
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-2","Fusobacterium","Fusobacterium nucleatum",2133,170357
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-3","Fusobacterium","Fusobacterium nucleatum",2062,170358
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-5","Fusobacterium","Fusobacterium nucleatum",2329,197116
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-6","Fusobacterium","Fusobacterium nucleatum",2423,197117
+"gastrointestinal_tract","Fusobacterium nucleatum CTI-7","Fusobacterium","Fusobacterium nucleatum",2017,197118
+"gastrointestinal_tract","Fusobacterium nucleatum subsp. animalis","Fusobacterium","Fusobacterium nucleatum",2777,64727
+"gastrointestinal_tract","Fusobacterium sp. 11_3_2","Fusobacterium",NA,2641,39559
+"gastrointestinal_tract","Fusobacterium sp. 1_1_41FAA","Fusobacterium",NA,2379,32469
+"gastrointestinal_tract","Fusobacterium sp. 21_1A","Fusobacterium",NA,2013,32475
+"gastrointestinal_tract","Fusobacterium sp. 3_1_27","Fusobacterium",NA,2004,41563
+"gastrointestinal_tract","Fusobacterium sp. 3_1_5R","Fusobacterium",NA,1986,32477
+"gastrointestinal_tract","Fusobacterium sp. 4_1_13","Fusobacterium",NA,2132,32479
+"gastrointestinal_tract","Fusobacterium sp. 4_8","Fusobacterium",NA,2124,32481
+"gastrointestinal_tract","Fusobacterium sp. D12","Fusobacterium",NA,1833,32485
+"gastrointestinal_tract","Fusobacterium ulcerans ATCC 49185","Fusobacterium","Fusobacterium ulcerans",3191,32487
+"gastrointestinal_tract","Fusobacterium varium ATCC 27725","Fusobacterium","Fusobacterium varium",3008,32423
+"gastrointestinal_tract","Hafnia alvei ATCC 51873","Hafnia","Hafnia alvei",4900,65123
+"gastrointestinal_tract","Helicobacter bilis ATCC 43879","Helicobacter","Helicobacter bilis",2269,32489
+"gastrointestinal_tract","Helicobacter canadensis MIT 98-5491","Helicobacter","Helicobacter canadensis",1713,30071
+"gastrointestinal_tract","Helicobacter canis NCTC 12740","Helicobacter","Helicobacter canis",1800,212678
+"gastrointestinal_tract","Helicobacter cinaedi CCUG 18818","Helicobacter","Helicobacter cinaedi",2424,30073
+"gastrointestinal_tract","Helicobacter macacae MIT 99-5501","Helicobacter","Helicobacter macacae",1946,212677
+"gastrointestinal_tract","Helicobacter pullorum MIT 98-5489","Helicobacter","Helicobacter pullorum",2113,30075
+"gastrointestinal_tract","Helicobacter pylori 35A","Helicobacter","Helicobacter pylori",1470,34603
+"gastrointestinal_tract","Helicobacter pylori 83","Helicobacter","Helicobacter pylori",1609,34609
+"gastrointestinal_tract","Helicobacter pylori GAM100Ai","Helicobacter","Helicobacter pylori",1669,89209
+"gastrointestinal_tract","Helicobacter pylori GAM101Biv","Helicobacter","Helicobacter pylori",1661,89211
+"gastrointestinal_tract","Helicobacter pylori GAM103Bi","Helicobacter","Helicobacter pylori",1659,89213
+"gastrointestinal_tract","Helicobacter pylori GAM105Ai","Helicobacter","Helicobacter pylori",1723,89215
+"gastrointestinal_tract","Helicobacter pylori GAM112Ai","Helicobacter","Helicobacter pylori",1710,89217
+"gastrointestinal_tract","Helicobacter pylori GAM114Ai","Helicobacter","Helicobacter pylori",1656,89219
+"gastrointestinal_tract","Helicobacter pylori GAM115Ai","Helicobacter","Helicobacter pylori",1742,89221
+"gastrointestinal_tract","Helicobacter pylori GAM117Ai","Helicobacter","Helicobacter pylori",1691,89223
+"gastrointestinal_tract","Helicobacter pylori GAM118Bi","Helicobacter","Helicobacter pylori",1706,89225
+"gastrointestinal_tract","Helicobacter pylori GAM119Bi","Helicobacter","Helicobacter pylori",1719,89227
+"gastrointestinal_tract","Helicobacter pylori GAM120Ai","Helicobacter","Helicobacter pylori",1716,89229
+"gastrointestinal_tract","Helicobacter pylori GAM121Aii","Helicobacter","Helicobacter pylori",1700,89231
+"gastrointestinal_tract","Helicobacter pylori GAM201Ai","Helicobacter","Helicobacter pylori",1650,89233
+"gastrointestinal_tract","Helicobacter pylori GAM210Bi","Helicobacter","Helicobacter pylori",1670,89235
+"gastrointestinal_tract","Helicobacter pylori GAM231Ai","Helicobacter","Helicobacter pylori",1658,89237
+"gastrointestinal_tract","Helicobacter pylori GAM239Bi","Helicobacter","Helicobacter pylori",1674,89239
+"gastrointestinal_tract","Helicobacter pylori GAM244Ai","Helicobacter","Helicobacter pylori",1666,89241
+"gastrointestinal_tract","Helicobacter pylori GAM245Ai","Helicobacter","Helicobacter pylori",1690,89243
+"gastrointestinal_tract","Helicobacter pylori GAM246Ai","Helicobacter","Helicobacter pylori",1707,89245
+"gastrointestinal_tract","Helicobacter pylori GAM249T","Helicobacter","Helicobacter pylori",1660,89247
+"gastrointestinal_tract","Helicobacter pylori GAM250AFi","Helicobacter","Helicobacter pylori",1618,89249
+"gastrointestinal_tract","Helicobacter pylori GAM250T","Helicobacter","Helicobacter pylori",1623,89251
+"gastrointestinal_tract","Helicobacter pylori GAM252Bi","Helicobacter","Helicobacter pylori",1615,89253
+"gastrointestinal_tract","Helicobacter pylori GAM252T","Helicobacter","Helicobacter pylori",1617,89255
+"gastrointestinal_tract","Helicobacter pylori GAM254Ai","Helicobacter","Helicobacter pylori",1686,89257
+"gastrointestinal_tract","Helicobacter pylori GAM260ASi","Helicobacter","Helicobacter pylori",1668,89259
+"gastrointestinal_tract","Helicobacter pylori GAM260BSi","Helicobacter","Helicobacter pylori",1627,89263
+"gastrointestinal_tract","Helicobacter pylori GAM260Bi","Helicobacter","Helicobacter pylori",1701,89261
+"gastrointestinal_tract","Helicobacter pylori GAM263BFi","Helicobacter","Helicobacter pylori",1678,89265
+"gastrointestinal_tract","Helicobacter pylori GAM264Ai","Helicobacter","Helicobacter pylori",1644,89267
+"gastrointestinal_tract","Helicobacter pylori GAM265BSii","Helicobacter","Helicobacter pylori",1715,89269
+"gastrointestinal_tract","Helicobacter pylori GAM268Bii","Helicobacter","Helicobacter pylori",1701,89271
+"gastrointestinal_tract","Helicobacter pylori GAM270ASi","Helicobacter","Helicobacter pylori",1688,89273
+"gastrointestinal_tract","Helicobacter pylori GAM42Ai","Helicobacter","Helicobacter pylori",1672,89275
+"gastrointestinal_tract","Helicobacter pylori GAM71Ai","Helicobacter","Helicobacter pylori",1662,89277
+"gastrointestinal_tract","Helicobacter pylori GAM80Ai","Helicobacter","Helicobacter pylori",1666,89279
+"gastrointestinal_tract","Helicobacter pylori GAM83Bi","Helicobacter","Helicobacter pylori",1661,89281
+"gastrointestinal_tract","Helicobacter pylori GAM83T","Helicobacter","Helicobacter pylori",1655,89283
+"gastrointestinal_tract","Helicobacter pylori GAM93Bi","Helicobacter","Helicobacter pylori",1693,89285
+"gastrointestinal_tract","Helicobacter pylori GAM96Ai","Helicobacter","Helicobacter pylori",1714,89287
+"gastrointestinal_tract","Helicobacter pylori GAMchJs106B","Helicobacter","Helicobacter pylori",1606,89289
+"gastrointestinal_tract","Helicobacter pylori GAMchJs114i","Helicobacter","Helicobacter pylori",1655,89291
+"gastrointestinal_tract","Helicobacter pylori GAMchJs117Ai","Helicobacter","Helicobacter pylori",1630,89293
+"gastrointestinal_tract","Helicobacter pylori GAMchJs124i","Helicobacter","Helicobacter pylori",1657,89295
+"gastrointestinal_tract","Helicobacter pylori GAMchJs136i","Helicobacter","Helicobacter pylori",1702,89299
+"gastrointestinal_tract","Helicobacter pylori HP116Bi","Helicobacter","Helicobacter pylori",1688,89301
+"gastrointestinal_tract","Helicobacter pylori HP250AFiV","Helicobacter","Helicobacter pylori",1618,89307
+"gastrointestinal_tract","Helicobacter pylori HP250AFii","Helicobacter","Helicobacter pylori",1622,89303
+"gastrointestinal_tract","Helicobacter pylori HP250AFiii","Helicobacter","Helicobacter pylori",1621,89305
+"gastrointestinal_tract","Helicobacter pylori HP250ASi","Helicobacter","Helicobacter pylori",1624,89309
+"gastrointestinal_tract","Helicobacter pylori HP250ASii","Helicobacter","Helicobacter pylori",1625,89311
+"gastrointestinal_tract","Helicobacter pylori HP250BFi","Helicobacter","Helicobacter pylori",1681,89313
+"gastrointestinal_tract","Helicobacter pylori HP250BFiV","Helicobacter","Helicobacter pylori",1638,89319
+"gastrointestinal_tract","Helicobacter pylori HP250BFii","Helicobacter","Helicobacter pylori",1623,89315
+"gastrointestinal_tract","Helicobacter pylori HP250BFiii","Helicobacter","Helicobacter pylori",1626,89317
+"gastrointestinal_tract","Helicobacter pylori HP250BSi","Helicobacter","Helicobacter pylori",1626,89321
+"gastrointestinal_tract","Helicobacter pylori HP260AFi","Helicobacter","Helicobacter pylori",1674,89323
+"gastrointestinal_tract","Helicobacter pylori HP260AFii","Helicobacter","Helicobacter pylori",1675,89325
+"gastrointestinal_tract","Helicobacter pylori HP260ASii","Helicobacter","Helicobacter pylori",1682,89327
+"gastrointestinal_tract","Helicobacter pylori HP260BFii","Helicobacter","Helicobacter pylori",1632,89329
+"gastrointestinal_tract","Helicobacter pylori HP260Bi","Helicobacter","Helicobacter pylori",1699,89331
+"gastrointestinal_tract","Helicobacter winghamensis ATCC BAA-430","Helicobacter","Helicobacter winghamensis",1677,32491
+"gastrointestinal_tract","Holdemania filiformis DSM 12042","Holdemania","Holdemania filiformis",4223,30361
+"gastrointestinal_tract","Klebsiella oxytoca KA-2","Klebsiella","Klebsiella oxytoca",5576,181051
+"gastrointestinal_tract","Klebsiella oxytoca OK-1","Klebsiella","Klebsiella oxytoca",5386,181050
+"gastrointestinal_tract","Klebsiella pneumoniae subsp. pneumoniae WGLW3","Klebsiella","Klebsiella pneumoniae",5159,169455
+"gastrointestinal_tract","Klebsiella pneumoniae subsp. pneumoniae WGLW5","Klebsiella","Klebsiella pneumoniae",5448,169456
+"gastrointestinal_tract","Klebsiella sp. MS 92-3","Klebsiella",NA,6126,47223
+"gastrointestinal_tract","Lachnospiraceae bacterium 2_1_46FAA",NA,NA,2078,46369
+"gastrointestinal_tract","Lachnospiraceae bacterium 2_1_58FAA",NA,NA,3534,39381
+"gastrointestinal_tract","Lachnospiraceae bacterium 6_1_37FAA",NA,NA,2950,41967
+"gastrointestinal_tract","Lachnospiraceae bacterium 7_1_58FAA",NA,NA,5907,39397
+"gastrointestinal_tract","Lactobacillus acidophilus ATCC 4796","Lactobacillus","Lactobacillus acidophilus",2020,31477
+"gastrointestinal_tract","Lactobacillus amylolyticus DSM 11664","Lactobacillus","Lactobacillus amylolyticus",1684,34615
+"gastrointestinal_tract","Lactobacillus antri DSM 16041","Lactobacillus","Lactobacillus antri",2224,31479
+"gastrointestinal_tract","Lactobacillus brevis ATCC 14869","Lactobacillus","Lactobacillus brevis",2630,38325
+"gastrointestinal_tract","Lactobacillus brevis subsp. gravesensis ATCC 27305","Lactobacillus","Lactobacillus brevis",3041,31481
+"gastrointestinal_tract","Lactobacillus buchneri ATCC 11577","Lactobacillus","Lactobacillus buchneri",3002,31483
+"gastrointestinal_tract","Lactobacillus delbrueckii subsp. lactis DSM 20072","Lactobacillus","Lactobacillus delbrueckii",2006,53001
+"gastrointestinal_tract","Lactobacillus fermentum ATCC 14931","Lactobacillus","Lactobacillus fermentum",1866,31485
+"gastrointestinal_tract","Lactobacillus helveticus DSM 20075","Lactobacillus","Lactobacillus helveticus",2078,34619
+"gastrointestinal_tract","Lactobacillus hilgardii ATCC 8290","Lactobacillus","Lactobacillus hilgardii",2791,31489
+"gastrointestinal_tract","Lactobacillus paracasei subsp. paracasei 8700:2","Lactobacillus","Lactobacillus paracasei",2781,30077
+"gastrointestinal_tract","Lactobacillus paracasei subsp. paracasei ATCC 25302","Lactobacillus","Lactobacillus paracasei",3042,31513
+"gastrointestinal_tract","Lactobacillus plantarum subsp. plantarum ATCC 14917","Lactobacillus","Lactobacillus plantarum",3154,31515
+"gastrointestinal_tract","Lactobacillus reuteri CF48-3A","Lactobacillus","Lactobacillus reuteri",2164,31553
+"gastrointestinal_tract","Lactobacillus reuteri MM2-3","Lactobacillus","Lactobacillus reuteri",2045,34627
+"gastrointestinal_tract","Lactobacillus reuteri MM4-1","Lactobacillus","Lactobacillus reuteri",2095,31511
+"gastrointestinal_tract","Lactobacillus reuteri SD2112","Lactobacillus","Lactobacillus reuteri",2300,30643
+"gastrointestinal_tract","Lactobacillus rhamnosus ATCC 21052","Lactobacillus","Lactobacillus rhamnosus",3014,65127
+"gastrointestinal_tract","Lactobacillus rhamnosus LMS2-1","Lactobacillus","Lactobacillus rhamnosus",3155,31497
+"gastrointestinal_tract","Lactobacillus ruminis ATCC 25644","Lactobacillus","Lactobacillus ruminis",2251,31499
+"gastrointestinal_tract","Lactobacillus ultunensis DSM 16047","Lactobacillus","Lactobacillus ultunensis",2210,31505
+"gastrointestinal_tract","Leuconostoc mesenteroides subsp. cremoris ATCC 19254","Leuconostoc","Leuconostoc mesenteroides",1847,34629
+"gastrointestinal_tract","Listeria grayi DSM 20601","Listeria","Listeria grayi",2625,31517
+"gastrointestinal_tract","Listeria innocua ATCC 33091","Listeria","Listeria innocua",2938,65129
+"gastrointestinal_tract","Megamonas funiformis YIT 11815","Megamonas","Megamonas funiformis",2529,46421
+"gastrointestinal_tract","Methanobrevibacter smithii DSM 2374","Methanobrevibacter","Methanobrevibacter smithii",1716,29303
+"gastrointestinal_tract","Methanobrevibacter smithii DSM 2375","Methanobrevibacter","Methanobrevibacter smithii",1709,27821
+"gastrointestinal_tract","Mitsuokella multacida DSM 20544","Mitsuokella","Mitsuokella multacida",2558,28653
+"gastrointestinal_tract","Neisseria macacae ATCC 33926","Neisseria","Neisseria macacae",3003,64729
+"gastrointestinal_tract","Odoribacter laneus YIT 12061","Odoribacter","Odoribacter laneus",3103,46423
+"gastrointestinal_tract","Oscillibacter sp. KLE 1728","Oscillibacter",NA,4274,173637
+"gastrointestinal_tract","Oscillibacter sp. KLE 1745","Oscillibacter",NA,4293,173638
+"gastrointestinal_tract","Oxalobacter formigenes HOxBLS","Oxalobacter","Oxalobacter formigenes",2260,32497
+"gastrointestinal_tract","Oxalobacter formigenes OXCC13","Oxalobacter","Oxalobacter formigenes",2124,32499
+"gastrointestinal_tract","Paenibacillus sp. HGF5","Paenibacillus",NA,6496,54029
+"gastrointestinal_tract","Paenibacillus sp. HGF7","Paenibacillus",NA,5992,61827
+"gastrointestinal_tract","Paenibacillus sp. HGH0039","Paenibacillus",NA,5669,72483
+"gastrointestinal_tract","Paenisporosarcina sp. HGH0030","Paenisporosarcina",NA,3449,72489
+"gastrointestinal_tract","Parabacteroides goldsteinii WAL 12034","Parabacteroides","Parabacteroides goldsteinii",5047,170353
+"gastrointestinal_tract","Parabacteroides johnsonii DSM 18315","Parabacteroides","Parabacteroides johnsonii",4515,30007
+"gastrointestinal_tract","Parabacteroides merdae ATCC 43184","Parabacteroides","Parabacteroides merdae",4384,18193
+"gastrointestinal_tract","Parabacteroides sp. 2_1_7","Parabacteroides",NA,4290,32437
+"gastrointestinal_tract","Parabacteroides sp. D13","Parabacteroides",NA,4562,38359
+"gastrointestinal_tract","Parabacteroides sp. D25","Parabacteroides",NA,4382,39405
+"gastrointestinal_tract","Parabacteroides sp. D26","Parabacteroides",NA,4358,39407
+"gastrointestinal_tract","Parabacteroides sp. HGS0025","Parabacteroides",NA,5293,72493
+"gastrointestinal_tract","Paraprevotella clara YIT 11840","Paraprevotella","Paraprevotella clara",4010,48501
+"gastrointestinal_tract","Paraprevotella xylaniphila YIT 11841","Paraprevotella","Paraprevotella xylaniphila",3442,48503
+"gastrointestinal_tract","Parasutterella excrementihominis YIT 11859","Parasutterella","Parasutterella excrementihominis",2751,48497
+"gastrointestinal_tract","Parvimonas micra ATCC 33270","Parvimonas","Parvimonas micra",1678,18169
+"gastrointestinal_tract","Pediococcus acidilactici DSM 20284","Pediococcus","Pediococcus acidilactici",1884,50527
+"gastrointestinal_tract","Phascolarctobacterium sp. YIT 12067","Phascolarctobacterium",NA,2150,48505
+"gastrointestinal_tract","Porphyromonas sp. 31_2","Porphyromonas",NA,4498,39411
+"gastrointestinal_tract","Prevotella copri DSM 18205","Prevotella","Prevotella copri",3337,30025
+"gastrointestinal_tract","Prevotella oralis HGA0225","Prevotella","Prevotella oralis",2354,169459
+"gastrointestinal_tract","Prevotella salivae DSM 15606","Prevotella","Prevotella salivae",2939,53199
+"gastrointestinal_tract","Prevotella stercorea DSM 18206","Prevotella","Prevotella stercorea",3017,65131
+"gastrointestinal_tract","Propionibacterium sp. 5_U_42AFAA","Propionibacterium",NA,2376,39413
+"gastrointestinal_tract","Propionibacterium sp. HGH0353","Propionibacterium",NA,2500,169460
+"gastrointestinal_tract","Proteus mirabilis WGLW6","Proteus","Proteus mirabilis",3738,169468
+"gastrointestinal_tract","Proteus penneri ATCC 35198","Proteus","Proteus penneri",4909,20551
+"gastrointestinal_tract","Providencia alcalifaciens 205/92","Providencia","Providencia alcalifaciens",4072,181044
+"gastrointestinal_tract","Providencia alcalifaciens DSM 30120","Providencia","Providencia alcalifaciens",4022,29297
+"gastrointestinal_tract","Providencia alcalifaciens F90-2004","Providencia","Providencia alcalifaciens",4190,181043
+"gastrointestinal_tract","Providencia alcalifaciens PAL-1","Providencia","Providencia alcalifaciens",3834,181047
+"gastrointestinal_tract","Providencia alcalifaciens PAL-2","Providencia","Providencia alcalifaciens",3934,181048
+"gastrointestinal_tract","Providencia alcalifaciens PAL-3","Providencia","Providencia alcalifaciens",3831,181049
+"gastrointestinal_tract","Providencia alcalifaciens R90-1475","Providencia","Providencia alcalifaciens",3755,181045
+"gastrointestinal_tract","Providencia alcalifaciens RIMD 1656011","Providencia","Providencia alcalifaciens",3766,181046
+"gastrointestinal_tract","Providencia rettgeri DSM 1131","Providencia","Providencia rettgeri",4754,29299
+"gastrointestinal_tract","Providencia rustigianii DSM 4541","Providencia","Providencia rustigianii",3969,28651
+"gastrointestinal_tract","Providencia stuartii ATCC 25827","Providencia","Providencia stuartii",4737,20553
+"gastrointestinal_tract","Pseudomonas sp. 2_1_26","Pseudomonas",NA,6049,40037
+"gastrointestinal_tract","Pseudomonas sp. HPB0071","Pseudomonas",NA,5337,169470
+"gastrointestinal_tract","Roseburia intestinalis L1-82","Roseburia","Roseburia intestinalis",4707,30005
+"gastrointestinal_tract","Roseburia inulinivorans DSM 16841","Roseburia","Roseburia inulinivorans",4415,30757
+"gastrointestinal_tract","Ruminococcaceae bacterium D16",NA,NA,2994,42541
+"gastrointestinal_tract","Ruminococcus callidus ATCC 27760","Ruminococcus","Ruminococcus callidus",3475,18185
+"gastrointestinal_tract","Ruminococcus gnavus ATCC 29149","Ruminococcus","Ruminococcus gnavus",3913,18179
+"gastrointestinal_tract","Ruminococcus lactaris ATCC 29176","Ruminococcus","Ruminococcus lactaris",2750,20557
+"gastrointestinal_tract","Ruminococcus obeum ATCC 29174","Ruminococcus","Ruminococcus obeum",4175,18147
+"gastrointestinal_tract","Ruminococcus sp. 5_1_39B_FAA","Ruminococcus",NA,3516,32503
+"gastrointestinal_tract","Ruminococcus torques ATCC 27756","Ruminococcus","Ruminococcus torques",2875,18153
+"gastrointestinal_tract","Slackia piriformis","Slackia","Slackia piriformis",1799,46425
+"gastrointestinal_tract","Staphylococcus sp. HGB0015","Staphylococcus",NA,2286,72485
+"gastrointestinal_tract","Streptococcus anginosus 1_2_62CV","Streptococcus","Streptococcus anginosus",1767,46427
+"gastrointestinal_tract","Streptococcus equinus ATCC 9812","Streptococcus","Streptococcus equinus",1793,52999
+"gastrointestinal_tract","Streptococcus infantarius subsp. infantarius ATCC BAA-102","Streptococcus","Streptococcus infantarius",2051,20527
+"gastrointestinal_tract","Streptococcus sp. HPH0090","Streptococcus",NA,1660,169485
+"gastrointestinal_tract","Streptomyces sp. HGB0020","Streptomyces",NA,8490,72491
+"gastrointestinal_tract","Streptomyces sp. HPH0547","Streptomyces",NA,6635,169487
+"gastrointestinal_tract","Subdoligranulum variabile DSM 15176","Subdoligranulum","Subdoligranulum variabile",3381,18181
+"gastrointestinal_tract","Succinatimonas hippei YIT 12066","Succinatimonas","Succinatimonas hippei",2169,48507
+"gastrointestinal_tract","Sutterella parvirubra YIT 11816","Sutterella","Sutterella parvirubra",2483,48499
+"gastrointestinal_tract","Sutterella wadsworthensis 2_1_59BFAA","Sutterella","Sutterella wadsworthensis",2369,46431
+"gastrointestinal_tract","Sutterella wadsworthensis 3_1_45B","Sutterella","Sutterella wadsworthensis",2373,46429
+"gastrointestinal_tract","Sutterella wadsworthensis HGA0223","Sutterella","Sutterella wadsworthensis",2412,169488
+"gastrointestinal_tract","Synergistes sp. 3_1_syn1","Synergistes",NA,2960,39419
+"gastrointestinal_tract","Tannerella sp. 6_1_58FAA_CT1","Tannerella",NA,3210,40043
+"gastrointestinal_tract","Turicibacter sp. HGF1","Turicibacter",NA,2815,59523
+"gastrointestinal_tract","Veillonella sp. 6_1_27","Veillonella",NA,1898,41977
+"gastrointestinal_tract","Veillonella sp. HPA0037","Veillonella",NA,1861,169494
+"gastrointestinal_tract","Weissella paramesenteroides ATCC 33313","Weissella","Weissella paramesenteroides",1952,34661
+"gastrointestinal_tract","Yokenella regensburgei ATCC 43003","Yokenella","Yokenella regensburgei",4710,65133
+"heart","Streptococcus gallolyticus subsp. gallolyticus TX20005","Streptococcus","Streptococcus gallolyticus",2218,30645
+"heart","Streptococcus sanguinis SK1","Streptococcus","Streptococcus sanguinis",2248,53155
+"liver","Fusobacterium necrophorum subsp. funduliforme ATCC 51357","Fusobacterium","Fusobacterium necrophorum",2060,75137
+"lymph_nodes","Enterococcus faecalis TX4248","Enterococcus","Enterococcus faecalis",3278,47143
+"nose","Staphylococcus aureus KPL1828","Staphylococcus","Staphylococcus aureus",2467,169472
+"nose","Staphylococcus aureus subsp. aureus KPL1845","Staphylococcus","Staphylococcus aureus",2564,169473
+"oral","Abiotrophia defectiva ATCC 49176","Abiotrophia","Abiotrophia defectiva",1950,33011
+"oral","Actinobaculum P1 oral taxon 183 F0552","Actinobaculum","Actinobaculum P1",2320,173932
+"oral","Actinomyces cardiffensis F0333","Actinomyces","Actinomyces cardiffensis",1983,53007
+"oral","Actinomyces georgiae F0490","Actinomyces","Actinomyces georgiae",2365,78895
+"oral","Actinomyces graevenitzii F0530","Actinomyces","Actinomyces graevenitzii",1897,198881
+"oral","Actinomyces johnsonii F0510","Actinomyces","Actinomyces johnsonii",3396,173933
+"oral","Actinomyces johnsonii F0542","Actinomyces","Actinomyces johnsonii",3324,198882
+"oral","Actinomyces massiliensis F0489","Actinomyces","Actinomyces massiliensis",3129,78897
+"oral","Actinomyces odontolyticus ATCC 17982","Actinomyces","Actinomyces odontolyticus",2159,18171
+"oral","Actinomyces sp. ICM54","Actinomyces",NA,2040,165951
+"oral","Actinomyces sp. Oral Taxon 181 str. F0379","Actinomyces",NA,1747,80239
+"oral","Actinomyces sp. oral taxon 170 str. F0386","Actinomyces",NA,3042,48493
+"oral","Actinomyces sp. oral taxon 171 str. F0337","Actinomyces",NA,3149,43131
+"oral","Actinomyces sp. oral taxon 172 str. F0311","Actinomyces",NA,2417,198883
+"oral","Actinomyces sp. oral taxon 175 str. F0384","Actinomyces",NA,2643,61829
+"oral","Actinomyces sp. oral taxon 178 str. F0338","Actinomyces",NA,2524,53009
+"oral","Actinomyces sp. oral taxon 180 str. F0310","Actinomyces",NA,2070,53011
+"oral","Actinomyces sp. oral taxon 448 str. F0400","Actinomyces",NA,2518,53017
+"oral","Actinomyces sp. oral taxon 848 str. F0332","Actinomyces",NA,2592,38311
+"oral","Actinomyces sp. oral taxon 849 str. F0330","Actinomyces",NA,3019,39355
+"oral","Actinomyces sp. oral taxon 877 F0543","Actinomyces",NA,2692,173934
+"oral","Actinomyces sp. str. ICM47","Actinomyces",NA,2080,78551
+"oral","Aeromicrobium marinum DSM 15272","Aeromicrobium","Aeromicrobium marinum",3081,34545
+"oral","Aggregatibacter actinomycetemcomitans Y4","Aggregatibacter","Aggregatibacter actinomycetemcomitans",2343,67199
+"oral","Aggregatibacter aphrophilus F0387","Aggregatibacter","Aggregatibacter aphrophilus",2104,40689
+"oral","Aggregatibacter segnis ATCC 33393","Aggregatibacter","Aggregatibacter segnis",1956,53019
+"oral","Aggregatibacter sp. oral taxon 458 W10330","Aggregatibacter",NA,2102,198875
+"oral","Alloscardovia omnicolens F0580","Alloscardovia","Alloscardovia omnicolens",1649,198880
+"oral","Anaeroglobus geminatus F0357","Anaeroglobus","Anaeroglobus geminatus",2148,50397
+"oral","Atopobium rimae ATCC 49626","Atopobium","Atopobium rimae",1548,30999
+"oral","Atopobium sp. ICM42b","Atopobium",NA,1335,165895
+"oral","Atopobium sp. oral taxon 199 str. F0494","Atopobium",NA,1474,170346
+"oral","Atopobium sp. oral taxon 810 F0209","Atopobium",NA,1914,198876
+"oral","Atopobium sp.BS2","Atopobium","Atopobium sp.BS2",1414,165893
+"oral","Bacteroides tectus F0041","Bacteroides","Bacteroides tectus",3559,198884
+"oral","Bacteroidetes oral taxon 274 str. F0058",NA,NA,1905,41957
+"oral","Bacteroidetes sp. F0290",NA,NA,2108,53013
+"oral","Bifidobacterium longum 44","Bifidobacterium","Bifidobacterium longum",1900,78629
+"oral","Bifidobacterium sp. strain MSTE12","Bifidobacterium",NA,2195,165897
+"oral","Brevundimonas diminuta 470-4","Brevundimonas","Brevundimonas diminuta",3506,67195
+"oral","Bulleidia extructa W1219","Bulleidia","Bulleidia extructa",1415,40673
+"oral","Campylobacter gracilis RM3268","Campylobacter","Campylobacter gracilis",2847,31021
+"oral","Campylobacter rectus RM3267","Campylobacter","Campylobacter rectus",2971,31017
+"oral","Campylobacter showae RM3277","Campylobacter","Campylobacter showae",2361,31019
+"oral","Campylobacter sp. str. FOBRC14","Campylobacter",NA,2282,78557
+"oral","Capnocytophaga gingivalis ATCC 33624","Capnocytophaga","Capnocytophaga gingivalis",2588,31387
+"oral","Capnocytophaga granulosa ATCC 51502","Capnocytophaga","Capnocytophaga granulosa",2513,41985
+"oral","Capnocytophaga ochracea F0287","Capnocytophaga","Capnocytophaga ochracea",2333,51493
+"oral","Capnocytophaga ochracea str. Holt 25","Capnocytophaga","Capnocytophaga ochracea",2272,78899
+"oral","Capnocytophaga sp. CM59","Capnocytophaga",NA,2591,78587
+"oral","Capnocytophaga sp. oral taxon 324 str. F0483","Capnocytophaga",NA,2547,80241
+"oral","Capnocytophaga sp. oral taxon 326 str. F0382","Capnocytophaga",NA,3232,67197
+"oral","Capnocytophaga sp. oral taxon 329 str. F0087","Capnocytophaga",NA,2525,43127
+"oral","Capnocytophaga sp. oral taxon 332 str. F0381","Capnocytophaga",NA,2706,80243
+"oral","Capnocytophaga sp. oral taxon 335 str. F0486","Capnocytophaga",NA,2205,78901
+"oral","Capnocytophaga sp. oral taxon 336 str. F0502","Capnocytophaga",NA,2342,170347
+"oral","Capnocytophaga sp. oral taxon 338 str. F0234","Capnocytophaga",NA,2445,53023
+"oral","Capnocytophaga sp. oral taxon 380 str. F0488","Capnocytophaga",NA,2469,80245
+"oral","Capnocytophaga sp. oral taxon 412 str. F0487","Capnocytophaga",NA,2277,78903
+"oral","Capnocytophaga sp. oral taxon 863 F0517","Capnocytophaga",NA,2778,173935
+"oral","Capnocytophaga sputigena ATCC 33612","Capnocytophaga","Capnocytophaga sputigena",2672,30997
+"oral","Cardiobacterium valvarum F0432","Cardiobacterium","Cardiobacterium valvarum",3026,49689
+"oral","Catonella morbi ATCC 51271","Catonella","Catonella morbi",3291,33121
+"oral","Centipeda periodontii DSM 2778","Centipeda","Centipeda periodontii",2631,53025
+"oral","Clostridiales bacterium oral taxon 876 str. F0540",NA,NA,4703,198885
+"oral","Clostridium sp. MSTE9","Clostridium",NA,3491,78561
+"oral","Corynebacterium durum F0235","Corynebacterium","Corynebacterium durum",2823,67201
+"oral","Corynebacterium matruchotii ATCC 14266","Corynebacterium","Corynebacterium matruchotii",2619,31011
+"oral","Corynebacterium matruchotii ATCC 33806","Corynebacterium","Corynebacterium matruchotii",3144,30771
+"oral","Dialister invisus DSM 15470","Dialister","Dialister invisus",1954,33143
+"oral","Eikenella corrodens ATCC 23834","Eikenella","Eikenella corrodens",2627,30493
+"oral","Enterobacter hormaechei ATCC 49162","Enterobacter","Enterobacter hormaechei",4671,53031
+"oral","Enterococcus casseliflavus ATCC 12755","Enterococcus","Enterococcus casseliflavus",3548,53041
+"oral","Enterococcus faecalis TUSoD Ef11","Enterococcus","Enterococcus faecalis",2705,31415
+"oral","Enterococcus italicus DSM 15952","Enterococcus","Enterococcus italicus",2405,53039
+"oral","Eubacteriaceae bacterium OBRC8",NA,NA,2277,78565
+"oral","Eubacterium brachy ATCC 33089","Eubacterium","Eubacterium brachy",1479,198877
+"oral","Eubacterium infirmum F0142","Eubacterium","Eubacterium infirmum",1765,52085
+"oral","Eubacterium nodatum ATCC 33099","Eubacterium","Eubacterium nodatum",1691,89653
+"oral","Eubacterium saburreum DSM 3986","Eubacterium","Eubacterium saburreum",2954,52981
+"oral","Eubacterium saburreum F0468","Eubacterium","Eubacterium saburreum",3017,75151
+"oral","Eubacterium saphenum ATCC 49989","Eubacterium","Eubacterium saphenum",954,33149
+"oral","Eubacterium sp. AS15","Eubacterium",NA,2308,78563
+"oral","Eubacterium sulci ATCC 35585","Eubacterium","Eubacterium sulci",1587,53047
+"oral","Eubacterium yurii subsp. margaretiae ATCC 43715","Eubacterium","Eubacterium yurii",2134,50511
+"oral","Filifactor alocis ATCC 35896","Filifactor","Filifactor alocis",1641,30485
+"oral","Fusobacterium necrophorum subsp. funduliforme Fnf 1007","Fusobacterium","Fusobacterium necrophorum",2173,89621
+"oral","Fusobacterium nucleatum subsp. polymorphum F0401","Fusobacterium","Fusobacterium nucleatum",2428,41987
+"oral","Fusobacterium periodonticum ATCC 33693","Fusobacterium","Fusobacterium periodonticum",2568,30495
+"oral","Fusobacterium sp. oral taxon 370 str. F0437","Fusobacterium",NA,2274,50399
+"oral","Fusobacterium sp. strain CM1","Fusobacterium",NA,2354,165905
+"oral","Fusobacterium sp. strain CM21","Fusobacterium",NA,2409,165903
+"oral","Fusobacterium sp. strain CM22","Fusobacterium",NA,2422,165909
+"oral","Fusobacterium sp. strain OBRC1","Fusobacterium",NA,2479,165911
+"oral","Gemella haemolysans ATCC 10379","Gemella","Gemella haemolysans",1710,30487
+"oral","Granulicatella adiacens ATCC 49175","Granulicatella","Granulicatella adiacens",1920,37271
+"oral","Granulicatella elegans ATCC 700633","Granulicatella","Granulicatella elegans",1562,38745
+"oral","Haemophilus aegyptius ATCC 11116","Haemophilus","Haemophilus aegyptius",2020,53049
+"oral","Haemophilus sp. oral taxon 851 str. F0397","Haemophilus",NA,1809,48495
+"oral","Johnsonella ignava ATCC 51276","Johnsonella","Johnsonella ignava",2308,40693
+"oral","Jonquetella anthropi E3_33 E1","Jonquetella","Jonquetella anthropi",1834,33111
+"oral","Kingella oralis ATCC 51147","Kingella","Kingella oralis",3165,33145
+"oral","Klebsiella sp. OBRC7","Klebsiella",NA,6263,78567
+"oral","Klebsiella sp. strain AS10","Klebsiella",NA,5956,165913
+"oral","Lachnospiraceae bacterium oral taxon 082 str. F0431",NA,NA,3119,50401
+"oral","Lachnospiraceae bacterium sp. ICM7",NA,NA,2589,78559
+"oral","Lachnospiraceae bacterium strain MSX33",NA,NA,2677,165899
+"oral","Lachnospiraceae oral taxon 107 str. F0167",NA,NA,3094,42531
+"oral","Lactobacillus oris F0423","Lactobacillus","Lactobacillus oris",2050,61831
+"oral","Lactobacillus salivarius ATCC 11741","Lactobacillus","Lactobacillus salivarius",1976,31503
+"oral","Lactobacillus sp. oral taxon 418 str. F0439","Lactobacillus",NA,3183,49691
+"oral","Lactobacillus sp. oral taxon 424 str. F0435","Lactobacillus",NA,3325,49693
+"oral","Lautropia mirabilis ATCC 51599","Lautropia","Lautropia mirabilis",2666,52989
+"oral","Leptotrichia goodfellowii F0264","Leptotrichia","Leptotrichia goodfellowii",2375,34093
+"oral","Leptotrichia hofstadii F0254","Leptotrichia","Leptotrichia hofstadii",2846,33151
+"oral","Leptotrichia sp. oral taxon 215 W9775","Leptotrichia",NA,2261,198887
+"oral","Leptotrichia sp. oral taxon 225 str. F0581","Leptotrichia",NA,2373,198878
+"oral","Leptotrichia sp. oral taxon 879 F0557","Leptotrichia",NA,2482,173936
+"oral","Megasphaera micronuciformis F0359","Megasphaera","Megasphaera micronuciformis",1774,43125
+"oral","Microbacterium sp. oral taxon 186 str. F0373","Microbacterium",NA,3015,169458
+"oral","Mitsuokella sp. oral taxon 131 W9106","Mitsuokella",NA,2309,198888
+"oral","Mogibacterium sp. CM50","Mogibacterium",NA,1801,78583
+"oral","Neisseria bacilliformis ATCC BAA-1200","Neisseria","Neisseria bacilliformis",2966,53053
+"oral","Neisseria sp. oral taxon 014 str. F0314","Neisseria",NA,2365,42547
+"oral","Neisseria sp. oral taxon 020 str. F0370","Neisseria",NA,2886,80247
+"oral","Neisseria subflava NJ9703","Neisseria","Neisseria subflava",2621,30483
+"oral","Olsenella profusa F0195","Olsenella","Olsenella profusa",2650,78893
+"oral","Olsenella sp. oral taxon 809 str. F0356","Olsenella",NA,1898,39743
+"oral","Olsenella uli strain MSTE5","Olsenella","Olsenella uli",1963,165915
+"oral","Oribacterium sinus F0268","Oribacterium","Oribacterium sinus",2638,34635
+"oral","Oribacterium sp. oral taxon 078 F0263","Oribacterium",NA,2835,198889
+"oral","Oribacterium sp. oral taxon 078 str. F0262","Oribacterium",NA,2947,33167
+"oral","Oribacterium sp. oral taxon 108 str. F0425","Oribacterium",NA,2342,53571
+"oral","Paenibacillus sp. oral taxon 786 str. D14","Paenibacillus",NA,4532,34703
+"oral","Parascardovia denticolens DSM 10105","Parascardovia","Parascardovia denticolens",1680,50509
+"oral","Parascardovia denticolens F0305","Parascardovia","Parascardovia denticolens",1550,42549
+"oral","Parvimonas sp. oral taxon 110 str. F0139","Parvimonas",NA,1640,49295
+"oral","Parvimonas sp. oral taxon 393 str. F0440","Parvimonas",NA,1617,61837
+"oral","Peptoniphilus indolicus ATCC 29427","Peptoniphilus","Peptoniphilus indolicus",2269,64733
+"oral","Peptoniphilus sp. oral taxon 375 str. F0436","Peptoniphilus",NA,2157,52051
+"oral","Peptoniphilus sp. oral taxon 386 str. F0131","Peptoniphilus",NA,1463,41969
+"oral","Peptoniphilus sp. oral taxon 836 str. F0141","Peptoniphilus",NA,1649,49437
+"oral","Peptostreptococcaceae bacterium oral taxon 113 str. W5053",NA,NA,2325,198890
+"oral","Peptostreptococcus anaerobius VPI 4330","Peptostreptococcus","Peptostreptococcus anaerobius",1933,67203
+"oral","Peptostreptococcus stomatis DSM 17678","Peptostreptococcus","Peptostreptococcus stomatis",1600,34073
+"oral","Porphyromonas catoniae ATCC 51270","Porphyromonas","Porphyromonas catoniae",1597,52993
+"oral","Porphyromonas endodontalis ATCC 35406","Porphyromonas","Porphyromonas endodontalis",1965,31385
+"oral","Porphyromonas gingivalis F0185","Porphyromonas","Porphyromonas gingivalis",2236,198891
+"oral","Porphyromonas gingivalis F0566","Porphyromonas","Porphyromonas gingivalis",2395,198892
+"oral","Porphyromonas gingivalis F0568","Porphyromonas","Porphyromonas gingivalis",2417,173937
+"oral","Porphyromonas gingivalis F0569","Porphyromonas","Porphyromonas gingivalis",2297,173938
+"oral","Porphyromonas gingivalis F0570","Porphyromonas","Porphyromonas gingivalis",2316,173939
+"oral","Porphyromonas gingivalis W4087","Porphyromonas","Porphyromonas gingivalis",2204,198893
+"oral","Porphyromonas gingivalis W50","Porphyromonas","Porphyromonas gingivalis",2016,78905
+"oral","Porphyromonas sp. oral taxon 278 W7784","Porphyromonas",NA,1984,173940
+"oral","Porphyromonas sp. oral taxon 279 str. F0450","Porphyromonas",NA,1729,78907
+"oral","Prevotella baroniae F0067","Prevotella","Prevotella baroniae",2418,78601
+"oral","Prevotella buccae ATCC 33574","Prevotella","Prevotella buccae",2896,51491
+"oral","Prevotella buccae D17","Prevotella","Prevotella buccae",2667,38737
+"oral","Prevotella dentalis DSM 3688","Prevotella","Prevotella dentalis",2766,64735
+"oral","Prevotella denticola F0289","Prevotella","Prevotella denticola",2386,49293
+"oral","Prevotella histicola F0411","Prevotella","Prevotella histicola",2479,49883
+"oral","Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930","Prevotella","Prevotella loescheii",3236,198894
+"oral","Prevotella marshii DSM 16973","Prevotella","Prevotella marshii",2335,50531
+"oral","Prevotella melaninogenica ATCC 25845","Prevotella","Prevotella melaninogenica",2296,31383
+"oral","Prevotella melaninogenica D18","Prevotella","Prevotella melaninogenica",2511,40045
+"oral","Prevotella micans F0438","Prevotella","Prevotella micans",2064,52087
+"oral","Prevotella multiformis DSM 16608","Prevotella","Prevotella multiformis",2884,53055
+"oral","Prevotella nigrescens ATCC 33563","Prevotella","Prevotella nigrescens",2421,64737
+"oral","Prevotella nigrescens F0103","Prevotella","Prevotella nigrescens",2757,43119
+"oral","Prevotella oris F0302","Prevotella","Prevotella oris",3316,38329
+"oral","Prevotella oulorum F0390","Prevotella","Prevotella oulorum",2488,43117
+"oral","Prevotella pallens ATCC 700821","Prevotella","Prevotella pallens",2860,64739
+"oral","Prevotella saccharolytica F0055","Prevotella","Prevotella saccharolytica",2561,80251
+"oral","Prevotella salivae F0493","Prevotella","Prevotella salivae",2690,217512
+"oral","Prevotella sp. F0091","Prevotella",NA,2914,173942
+"oral","Prevotella sp. MSX73","Prevotella",NA,2662,78571
+"oral","Prevotella sp. oral taxon 299 str. F0039","Prevotella",NA,1960,40047
+"oral","Prevotella sp. oral taxon 302 str. F0323","Prevotella",NA,2012,40691
+"oral","Prevotella sp. oral taxon 306 str. F0472","Prevotella",NA,2442,75153
+"oral","Prevotella sp. oral taxon 317 str. F0108","Prevotella",NA,2975,38521
+"oral","Prevotella sp. oral taxon 472 str. F0295","Prevotella",NA,3092,38731
+"oral","Prevotella sp. oral taxon 473 str. F0040","Prevotella",NA,2317,67205
+"oral","Prevotella sp. strain ICM33","Prevotella",NA,2446,165919
+"oral","Prevotella tannerae ATCC 51259","Prevotella","Prevotella tannerae",2811,33153
+"oral","Prevotella veroralis F0319","Prevotella","Prevotella veroralis",3048,38331
+"oral","Propionibacterium avidum ATCC 25577","Propionibacterium","Propionibacterium avidum",2376,64741
+"oral","Propionibacterium propionicum F0230a","Propionibacterium","Propionibacterium propionicum",2938,49291
+"oral","Propionibacterium sp. CC003-HC2","Propionibacterium",NA,2397,65579
+"oral","Propionibacterium sp. oral taxon 192 str. F0372","Propionibacterium",NA,2524,170349
+"oral","Pseudoramibacter alactolyticus ATCC 23263","Pseudoramibacter","Pseudoramibacter alactolyticus",2515,52995
+"oral","Rothia aeria F0184","Rothia","Rothia aeria",2704,52997
+"oral","Rothia aeria F0474","Rothia","Rothia aeria",2282,78909
+"oral","Rothia dentocariosa ATCC 17931","Rothia","Rothia dentocariosa",2217,48447
+"oral","Scardovia inopinata F0304","Scardovia","Scardovia inopinata",1482,41979
+"oral","Scardovia wiggsiae F0424","Scardovia","Scardovia wiggsiae",1243,49881
+"oral","Selenomonas artemidis F0399","Selenomonas","Selenomonas artemidis",2195,47277
+"oral","Selenomonas flueggei ATCC 43531","Selenomonas","Selenomonas flueggei",2117,37273
+"oral","Selenomonas infelix ATCC 43532","Selenomonas","Selenomonas infelix",2160,40695
+"oral","Selenomonas noxia ATCC 43541","Selenomonas","Selenomonas noxia",2020,34641
+"oral","Selenomonas noxia F0398","Selenomonas","Selenomonas noxia",1987,43115
+"oral","Selenomonas sp. CM52","Selenomonas",NA,2493,78585
+"oral","Selenomonas sp. F0473","Selenomonas",NA,1886,64897
+"oral","Selenomonas sp. FOBRC6","Selenomonas",NA,2304,78575
+"oral","Selenomonas sp. FOBRC9","Selenomonas",NA,2300,78573
+"oral","Selenomonas sp. oral taxon 137 str. F0430","Selenomonas",NA,2395,52055
+"oral","Selenomonas sp. oral taxon 138 str. F0429","Selenomonas",NA,2419,80253
+"oral","Selenomonas sp. oral taxon 149 str. 67H29BP","Selenomonas",NA,2407,50535
+"oral","Selenomonas sp. oral taxon 892 str. F0426","Selenomonas",NA,2303,198895
+"oral","Selenomonas sputigena ATCC 35185","Selenomonas","Selenomonas sputigena",2647,30489
+"oral","Shuttleworthia satelles DSM 14600","Shuttleworthia","Shuttleworthia satelles",2261,33169
+"oral","Shuttleworthia sp. strain MSX8B","Shuttleworthia",NA,1992,165923
+"oral","Simonsiella muelleri ATCC 29453","Simonsiella","Simonsiella muelleri",2275,41981
+"oral","Slackia exigua ATCC 700122","Slackia","Slackia exigua",2029,38335
+"oral","Slackia sp. CM382","Slackia",NA,1809,78589
+"oral","Solobacterium moorei F0204","Solobacterium","Solobacterium moorei",2035,43121
+"oral","Streptococcus agalactiae ATCC 13813","Streptococcus","Streptococcus agalactiae",2211,53057
+"oral","Streptococcus anginosus CCUG 39159","Streptococcus","Streptococcus anginosus",2327,75125
+"oral","Streptococcus anginosus F0211","Streptococcus","Streptococcus anginosus",2035,43129
+"oral","Streptococcus anginosus SK52","Streptococcus","Streptococcus anginosus",1911,64677
+"oral","Streptococcus australis ATCC 700641","Streptococcus","Streptococcus australis",2030,53201
+"oral","Streptococcus cristatus ATCC 51100","Streptococcus","Streptococcus cristatus",1967,53203
+"oral","Streptococcus downei F0415","Streptococcus","Streptococcus downei",2204,53567
+"oral","Streptococcus dysgalactiae equisimilis SK1250","Streptococcus","Streptococcus dysgalactiae",2104,65585
+"oral","Streptococcus dysgalactiae subsp. equisimilis SK1249","Streptococcus","Streptococcus dysgalactiae",2310,64681
+"oral","Streptococcus intermedius ATCC 27335","Streptococcus","Streptococcus intermedius",1875,197004
+"oral","Streptococcus intermedius F0395","Streptococcus","Streptococcus intermedius",1904,49885
+"oral","Streptococcus intermedius SK54, ATCC 27335","Streptococcus","Streptococcus intermedius",1879,75155
+"oral","Streptococcus mitis ATCC 6249","Streptococcus","Streptococcus mitis",1793,50515
+"oral","Streptococcus mitis bv. 2 SK95","Streptococcus","Streptococcus mitis",2006,64679
+"oral","Streptococcus mitis bv. 2 str. F0392","Streptococcus","Streptococcus mitis",1861,49439
+"oral","Streptococcus oralis ATCC 35037","Streptococcus","Streptococcus oralis",1847,38733
+"oral","Streptococcus oralis SK100","Streptococcus","Streptococcus oralis",1925,75163
+"oral","Streptococcus oralis SK304","Streptococcus","Streptococcus oralis",2007,89615
+"oral","Streptococcus parasanguinis ATCC 15912","Streptococcus","Streptococcus parasanguinis",2022,48315
+"oral","Streptococcus peroris ATCC 700780","Streptococcus","Streptococcus peroris",1638,53059
+"oral","Streptococcus pyogenes GA06023","Streptococcus","Streptococcus pyogenes",2280,78615
+"oral","Streptococcus pyogenes GA19681","Streptococcus","Streptococcus pyogenes",2018,78613
+"oral","Streptococcus pyogenes GA19700","Streptococcus","Streptococcus pyogenes",2086,78619
+"oral","Streptococcus pyogenes GA40056","Streptococcus","Streptococcus pyogenes",1893,78625
+"oral","Streptococcus pyogenes GA40468","Streptococcus","Streptococcus pyogenes",2187,78617
+"oral","Streptococcus pyogenes GA40634","Streptococcus","Streptococcus pyogenes",1922,78611
+"oral","Streptococcus pyogenes GA41039","Streptococcus","Streptococcus pyogenes",1886,78621
+"oral","Streptococcus pyogenes GA41046","Streptococcus","Streptococcus pyogenes",1932,78607
+"oral","Streptococcus pyogenes GA41208","Streptococcus","Streptococcus pyogenes",1866,78623
+"oral","Streptococcus pyogenes GA41345","Streptococcus","Streptococcus pyogenes",1935,78609
+"oral","Streptococcus pyogenes GA41394","Streptococcus","Streptococcus pyogenes",1822,78627
+"oral","Streptococcus pyogenes UTSW-2","Streptococcus","Streptococcus pyogenes",1925,78603
+"oral","Streptococcus sanguinis ATCC 29667","Streptococcus","Streptococcus sanguinis",2407,64743
+"oral","Streptococcus sanguinis ATCC 49296","Streptococcus","Streptococcus sanguinis",2013,53005
+"oral","Streptococcus sanguinis SK115","Streptococcus","Streptococcus sanguinis",2293,53161
+"oral","Streptococcus sanguinis SK150","Streptococcus","Streptococcus sanguinis",2290,53163
+"oral","Streptococcus sanguinis SK160","Streptococcus","Streptococcus sanguinis",2284,53165
+"oral","Streptococcus sanguinis SK330","Streptococcus","Streptococcus sanguinis",2388,53167
+"oral","Streptococcus sanguinis SK340","Streptococcus","Streptococcus sanguinis",2376,53169
+"oral","Streptococcus sanguinis SK353","Streptococcus","Streptococcus sanguinis",2255,53171
+"oral","Streptococcus sanguinis SK355","Streptococcus","Streptococcus sanguinis",2320,53173
+"oral","Streptococcus sanguinis SK49","Streptococcus","Streptococcus sanguinis",2272,53157
+"oral","Streptococcus sanguinis SK72","Streptococcus","Streptococcus sanguinis",2357,53159
+"oral","Streptococcus sobrinus W1703","Streptococcus","Streptococcus sobrinus",2210,173941
+"oral","Streptococcus sp. AC15","Streptococcus",NA,1952,165925
+"oral","Streptococcus sp. AS14","Streptococcus",NA,2285,78579
+"oral","Streptococcus sp. BS35b","Streptococcus",NA,1780,78577
+"oral","Streptococcus sp. F0441","Streptococcus",NA,1900,64899
+"oral","Streptococcus sp. F0442","Streptococcus",NA,2146,64901
+"oral","Streptococcus sp. SK140","Streptococcus",NA,1856,75169
+"oral","Streptococcus sp. oral taxon 056 str. F0418","Streptococcus",NA,1963,53569
+"oral","Streptococcus sp. oral taxon 058 str. F0407","Streptococcus",NA,1876,50403
+"oral","Streptococcus sp. oral taxon 071 str. 73H25AP","Streptococcus",NA,1924,50521
+"oral","Streptococcus sp. strain ACC21","Streptococcus",NA,1978,165927
+"oral","Streptococcus sp. strain ACS2","Streptococcus",NA,1981,165941
+"oral","Streptococcus sp. strain AS20","Streptococcus",NA,1845,165935
+"oral","Streptococcus sp. strain BS21","Streptococcus",NA,1780,165937
+"oral","Streptococcus sp. strain BS29a","Streptococcus",NA,1858,165933
+"oral","Streptococcus sp. strain CM6","Streptococcus",NA,1875,165939
+"oral","Streptococcus sp. strain CM7","Streptococcus",NA,2028,165929
+"oral","Streptococcus sp. strain OBRC6","Streptococcus",NA,2103,165931
+"oral","Streptococcus sp. strain SR1","Streptococcus",NA,2039,165943
+"oral","Streptococcus sp. strain SR4","Streptococcus",NA,2020,165945
+"oral","Streptococcus vestibularis ATCC 49124","Streptococcus","Streptococcus vestibularis",1890,53209
+"oral","Streptococcus vestibularis F0396","Streptococcus","Streptococcus vestibularis",1979,53573
+"oral","Synergistetes bacterium W5455",NA,NA,2756,34581
+"oral","Treponema denticola AL-2","Treponema","Treponema denticola",2632,64903
+"oral","Treponema denticola ASLM","Treponema","Treponema denticola",2569,64905
+"oral","Treponema denticola ATCC 33520","Treponema","Treponema denticola",2647,64907
+"oral","Treponema denticola ATCC 33521","Treponema","Treponema denticola",2531,64909
+"oral","Treponema denticola ATCC 35404","Treponema","Treponema denticola",2533,64911
+"oral","Treponema denticola F0402","Treponema","Treponema denticola",2601,42551
+"oral","Treponema denticola H1-T","Treponema","Treponema denticola",2705,64913
+"oral","Treponema denticola MYR-T","Treponema","Treponema denticola",2716,64917
+"oral","Treponema denticola OTK","Treponema","Treponema denticola",2641,64919
+"oral","Treponema denticola SP23","Treponema","Treponema denticola",2614,64921
+"oral","Treponema denticola SP32","Treponema","Treponema denticola",2793,64923
+"oral","Treponema denticola SP33","Treponema","Treponema denticola",2738,64925
+"oral","Treponema denticola SP37","Treponema","Treponema denticola",2610,64927
+"oral","Treponema denticola SP44","Treponema","Treponema denticola",2610,64929
+"oral","Treponema denticola US-Trep","Treponema","Treponema denticola",2551,64933
+"oral","Treponema lecithinolyticum ATCC 700332","Treponema","Treponema lecithinolyticum",2175,198879
+"oral","Treponema maltophilum ATCC 51939","Treponema","Treponema maltophilum",2287,169489
+"oral","Treponema medium ATCC 700293","Treponema","Treponema medium",2338,169490
+"oral","Treponema socranskii socranskii VPI DR56BR1116, ATCC 35536","Treponema","Treponema socranskii",2626,78911
+"oral","Treponema socranskii subsp. paredis ATCC 35535","Treponema","Treponema socranskii",2426,169492
+"oral","Treponema socranskii subsp. socranskii VPI DR56BR1116 = ATCC 35536","Treponema","Treponema socranskii",2624,216958
+"oral","Treponema vincentii ATCC 35580","Treponema","Treponema vincentii",2559,34095
+"oral","Treponema vincentii F0403","Treponema","Treponema vincentii",2441,169493
+"oral","Veillonella atypica KON","Veillonella","Veillonella atypica",1911,80237
+"oral","Veillonella dispar ATCC 17748","Veillonella","Veillonella dispar",1954,30491
+"oral","Veillonella parvula ATCC 17745","Veillonella","Veillonella parvula",1929,41557
+"oral","Veillonella sp. ACP1","Veillonella",NA,1864,78581
+"oral","Veillonella sp. ICM51a","Veillonella",NA,1986,165917
+"oral","Veillonella sp. oral taxon 158 str. F0412","Veillonella",NA,2000,52053
+"oral","Veillonella sp. oral taxon 780 str. F0422","Veillonella",NA,1588,61835
+"oral","Veillonella sp. strain AS16","Veillonella",NA,1737,165949
+"skin","Acetobacteraceae bacterium AT-5844",NA,NA,5289,70153
+"skin","Acinetobacter baumannii 6013113","Acinetobacter","Acinetobacter baumannii",4010,33017
+"skin","Acinetobacter baumannii 6013150","Acinetobacter","Acinetobacter baumannii",3964,33071
+"skin","Acinetobacter baumannii 6014059","Acinetobacter","Acinetobacter baumannii",3880,33073
+"skin","Acinetobacter calcoaceticus RUH2202","Acinetobacter","Acinetobacter calcoaceticus",3632,38337
+"skin","Acinetobacter johnsonii SH046","Acinetobacter","Acinetobacter johnsonii",3434,38339
+"skin","Acinetobacter lwoffii SH145","Acinetobacter","Acinetobacter lwoffii",3202,38343
+"skin","Acinetobacter radioresistens SK82","Acinetobacter","Acinetobacter radioresistens",3188,34081
+"skin","Acinetobacter sp. ATCC 27244","Acinetobacter",NA,3327,30949
+"skin","Acinetobacter sp. RUH2624","Acinetobacter",NA,3693,38511
+"skin","Acinetobacter sp. SH024","Acinetobacter",NA,3703,41947
+"skin","Anaerococcus vaginalis ATCC 51170","Anaerococcus","Anaerococcus vaginalis",1764,38727
+"skin","Bifidobacterium longum 1-6","Bifidobacterium","Bifidobacterium longum",1806,78631
+"skin","Corynebacterium amycolatum SK46","Corynebacterium","Corynebacterium amycolatum",2103,31007
+"skin","Corynebacterium efficiens YS-314 DSM 44549","Corynebacterium","Corynebacterium efficiens",3026,34585
+"skin","Corynebacterium pyruviciproducens ATCC BAA-1742","Corynebacterium","Corynebacterium pyruviciproducens",2447,78965
+"skin","Corynebacterium tuberculostearicum SK141","Corynebacterium","Corynebacterium tuberculostearicum",2210,31009
+"skin","Dermacoccus sp. Ellin185","Dermacoccus",NA,2919,34079
+"skin","Enhydrobacter aerosaccus SK60","Enhydrobacter","Enhydrobacter aerosaccus",2573,31335
+"skin","Erysipelothrix rhusiopathiae ATCC 19414","Erysipelothrix","Erysipelothrix rhusiopathiae",1645,31465
+"skin","Haemophilus parainfluenzae ATCC 33392","Haemophilus","Haemophilus parainfluenzae",2010,53197
+"skin","Micrococcus luteus SK58","Micrococcus","Micrococcus luteus",2489,34071
+"skin","Neisseria flavescens SK114","Neisseria","Neisseria flavescens",2338,34085
+"skin","Neisseria wadsworthii 9715","Neisseria","Neisseria wadsworthii",2553,66911
+"skin","Peptostreptococcus anaerobius 653-L","Peptostreptococcus","Peptostreptococcus anaerobius",1871,34105
+"skin","Prevotella bergensis DSM 17361","Prevotella","Prevotella bergensis",2825,34637
+"skin","Propionibacterium acidifaciens F0233","Propionibacterium","Propionibacterium acidifaciens",2913,31003
+"skin","Propionibacterium acnes HL001PA1","Propionibacterium","Propionibacterium acnes",2575,49245
+"skin","Propionibacterium acnes HL002PA1","Propionibacterium","Propionibacterium acnes",2496,49265
+"skin","Propionibacterium acnes HL002PA2","Propionibacterium","Propionibacterium acnes",2542,49267
+"skin","Propionibacterium acnes HL002PA3","Propionibacterium","Propionibacterium acnes",2513,49269
+"skin","Propionibacterium acnes HL005PA1","Propionibacterium","Propionibacterium acnes",2634,49225
+"skin","Propionibacterium acnes HL005PA2","Propionibacterium","Propionibacterium acnes",2583,49227
+"skin","Propionibacterium acnes HL005PA3","Propionibacterium","Propionibacterium acnes",2522,49229
+"skin","Propionibacterium acnes HL005PA4","Propionibacterium","Propionibacterium acnes",2553,49231
+"skin","Propionibacterium acnes HL007PA1","Propionibacterium","Propionibacterium acnes",2640,49271
+"skin","Propionibacterium acnes HL013PA1","Propionibacterium","Propionibacterium acnes",2567,49169
+"skin","Propionibacterium acnes HL013PA2","Propionibacterium","Propionibacterium acnes",2532,49171
+"skin","Propionibacterium acnes HL020PA1","Propionibacterium","Propionibacterium acnes",2502,49161
+"skin","Propionibacterium acnes HL025PA1","Propionibacterium","Propionibacterium acnes",2529,49211
+"skin","Propionibacterium acnes HL025PA2","Propionibacterium","Propionibacterium acnes",2565,49213
+"skin","Propionibacterium acnes HL027PA1","Propionibacterium","Propionibacterium acnes",2641,49257
+"skin","Propionibacterium acnes HL027PA2","Propionibacterium","Propionibacterium acnes",2570,49259
+"skin","Propionibacterium acnes HL030PA1","Propionibacterium","Propionibacterium acnes",2604,49241
+"skin","Propionibacterium acnes HL030PA2","Propionibacterium","Propionibacterium acnes",2593,49243
+"skin","Propionibacterium acnes HL036PA1","Propionibacterium","Propionibacterium acnes",2523,49247
+"skin","Propionibacterium acnes HL036PA2","Propionibacterium","Propionibacterium acnes",2511,49249
+"skin","Propionibacterium acnes HL036PA3","Propionibacterium","Propionibacterium acnes",2549,49251
+"skin","Propionibacterium acnes HL037PA1","Propionibacterium","Propionibacterium acnes",2556,49279
+"skin","Propionibacterium acnes HL037PA2","Propionibacterium","Propionibacterium acnes",2859,49281
+"skin","Propionibacterium acnes HL037PA3","Propionibacterium","Propionibacterium acnes",2854,49283
+"skin","Propionibacterium acnes HL038PA1","Propionibacterium","Propionibacterium acnes",2611,49203
+"skin","Propionibacterium acnes HL043PA1","Propionibacterium","Propionibacterium acnes",2646,49175
+"skin","Propionibacterium acnes HL043PA2","Propionibacterium","Propionibacterium acnes",2636,49177
+"skin","Propionibacterium acnes HL044PA1","Propionibacterium","Propionibacterium acnes",2860,49253
+"skin","Propionibacterium acnes HL045PA1","Propionibacterium","Propionibacterium acnes",2639,49167
+"skin","Propionibacterium acnes HL046PA1","Propionibacterium","Propionibacterium acnes",2548,49221
+"skin","Propionibacterium acnes HL046PA2","Propionibacterium","Propionibacterium acnes",2596,49223
+"skin","Propionibacterium acnes HL050PA1","Propionibacterium","Propionibacterium acnes",2590,49233
+"skin","Propionibacterium acnes HL050PA2","Propionibacterium","Propionibacterium acnes",2530,49237
+"skin","Propionibacterium acnes HL050PA3","Propionibacterium","Propionibacterium acnes",2506,49239
+"skin","Propionibacterium acnes HL053PA1","Propionibacterium","Propionibacterium acnes",2577,49163
+"skin","Propionibacterium acnes HL053PA2","Propionibacterium","Propionibacterium acnes",2590,49165
+"skin","Propionibacterium acnes HL056PA1","Propionibacterium","Propionibacterium acnes",2525,49273
+"skin","Propionibacterium acnes HL059PA1","Propionibacterium","Propionibacterium acnes",2507,49215
+"skin","Propionibacterium acnes HL059PA2","Propionibacterium","Propionibacterium acnes",2483,49217
+"skin","Propionibacterium acnes HL060PA1","Propionibacterium","Propionibacterium acnes",2545,49201
+"skin","Propionibacterium acnes HL063PA1","Propionibacterium","Propionibacterium acnes",2468,49261
+"skin","Propionibacterium acnes HL063PA2","Propionibacterium","Propionibacterium acnes",2603,49263
+"skin","Propionibacterium acnes HL067PA1","Propionibacterium","Propionibacterium acnes",2582,49255
+"skin","Propionibacterium acnes HL072PA1","Propionibacterium","Propionibacterium acnes",2539,49179
+"skin","Propionibacterium acnes HL072PA2","Propionibacterium","Propionibacterium acnes",2614,49181
+"skin","Propionibacterium acnes HL074PA1","Propionibacterium","Propionibacterium acnes",2625,49183
+"skin","Propionibacterium acnes HL078PA1","Propionibacterium","Propionibacterium acnes",2687,49173
+"skin","Propionibacterium acnes HL082PA1","Propionibacterium","Propionibacterium acnes",2597,49275
+"skin","Propionibacterium acnes HL082PA2","Propionibacterium","Propionibacterium acnes",2533,49277
+"skin","Propionibacterium acnes HL083PA1","Propionibacterium","Propionibacterium acnes",2524,49207
+"skin","Propionibacterium acnes HL083PA2","Propionibacterium","Propionibacterium acnes",2583,49209
+"skin","Propionibacterium acnes HL086PA1","Propionibacterium","Propionibacterium acnes",2558,49219
+"skin","Propionibacterium acnes HL087PA1","Propionibacterium","Propionibacterium acnes",2532,49195
+"skin","Propionibacterium acnes HL087PA2","Propionibacterium","Propionibacterium acnes",2518,49197
+"skin","Propionibacterium acnes HL087PA3","Propionibacterium","Propionibacterium acnes",2566,49199
+"skin","Propionibacterium acnes HL092PA1","Propionibacterium","Propionibacterium acnes",2541,49205
+"skin","Propionibacterium acnes HL096PA2","Propionibacterium","Propionibacterium acnes",2588,40727
+"skin","Propionibacterium acnes HL096PA3","Propionibacterium","Propionibacterium acnes",2602,40729
+"skin","Propionibacterium acnes HL097PA1","Propionibacterium","Propionibacterium acnes",2567,40715
+"skin","Propionibacterium acnes HL099PA1","Propionibacterium","Propionibacterium acnes",2685,40717
+"skin","Propionibacterium acnes HL103PA1","Propionibacterium","Propionibacterium acnes",2496,40721
+"skin","Propionibacterium acnes HL110PA1","Propionibacterium","Propionibacterium acnes",2602,49187
+"skin","Propionibacterium acnes HL110PA2","Propionibacterium","Propionibacterium acnes",2562,49189
+"skin","Propionibacterium acnes HL110PA3","Propionibacterium","Propionibacterium acnes",2613,49191
+"skin","Propionibacterium acnes HL110PA4","Propionibacterium","Propionibacterium acnes",2587,49193
+"skin","Propionibacterium acnes J139","Propionibacterium","Propionibacterium acnes",2364,40679
+"skin","Propionibacterium acnes J165","Propionibacterium","Propionibacterium acnes",2404,40681
+"skin","Propionibacterium acnes SK137","Propionibacterium","Propionibacterium acnes",2352,31005
+"skin","Propionibacterium acnes SK182","Propionibacterium","Propionibacterium acnes",2338,40675
+"skin","Propionibacterium acnes SK182B-JCVI","Propionibacterium","Propionibacterium acnes",2282,68569
+"skin","Propionibacterium acnes SK187","Propionibacterium","Propionibacterium acnes",2382,41555
+"skin","Pseudomonas aeruginosa str. Stone 130","Pseudomonas","Pseudomonas aeruginosa",7038,169469
+"skin","Rhodococcus equi ATCC 33707","Rhodococcus","Rhodococcus equi",5030,31525
+"skin","Rhodococcus erythropolis SK121","Rhodococcus","Rhodococcus erythropolis",6713,34067
+"skin","Staphylococcus aureus subsp. aureus 130","Staphylococcus","Staphylococcus aureus",2856,31541
+"skin","Staphylococcus aureus subsp. aureus MRSA131","Staphylococcus","Staphylococcus aureus",2771,47281
+"skin","Staphylococcus aureus subsp. aureus MRSA177","Staphylococcus","Staphylococcus aureus",2773,47283
+"skin","Staphylococcus aureus subsp. aureus TCH60","Staphylococcus","Staphylococcus aureus",2700,31539
+"skin","Staphylococcus aureus subsp. aureus TCH70","Staphylococcus","Staphylococcus aureus",2731,31543
+"skin","Staphylococcus aureus subsp. aureus USA300_TCH1516","Staphylococcus","Staphylococcus aureus",2689,19489
+"skin","Staphylococcus aureus subsp. aureus USA300_TCH959","Staphylococcus","Staphylococcus aureus",2906,19921
+"skin","Staphylococcus capitis SK14","Staphylococcus","Staphylococcus capitis",2230,31013
+"skin","Staphylococcus epidermidis 14.1.R1.SE","Staphylococcus","Staphylococcus epidermidis",2521,64683
+"skin","Staphylococcus epidermidis BCM-HMP0060","Staphylococcus","Staphylococcus epidermidis",2507,31545
+"skin","Staphylococcus epidermidis M23864:W2(grey)","Staphylococcus","Staphylococcus epidermidis",2407,34643
+"skin","Staphylococcus epidermidis SK135","Staphylococcus","Staphylococcus epidermidis",2395,34077
+"skin","Staphylococcus epidermidis W23144","Staphylococcus","Staphylococcus epidermidis",2562,34655
+"skin","Staphylococcus hominis SK119","Staphylococcus","Staphylococcus hominis",2182,34087
+"skin","Staphylococcus lugdunensis M23590","Staphylococcus","Staphylococcus lugdunensis",2421,34653
+"skin","Staphylococcus warneri L37603","Staphylococcus","Staphylococcus warneri",2381,34083
+"skin","Streptococcus agalactiae PSS_7736","Streptococcus","Streptococcus agalactiae",2180,254657
+"skin","Streptococcus pyogenes GA03455","Streptococcus","Streptococcus pyogenes",1842,78633
+"skin","Streptococcus pyogenes GA03747","Streptococcus","Streptococcus pyogenes",1915,78639
+"skin","Streptococcus pyogenes GA03799","Streptococcus","Streptococcus pyogenes",1745,78635
+"skin","Streptococcus pyogenes GA16797","Streptococcus","Streptococcus pyogenes",1742,78643
+"skin","Streptococcus pyogenes GA19702","Streptococcus","Streptococcus pyogenes",1869,78641
+"skin","Streptococcus pyogenes GA40884","Streptococcus","Streptococcus pyogenes",1815,78637
+"skin","Streptococcus salivarius SK126","Streptococcus","Streptococcus salivarius",1992,34091
+"unknown","Actinomyces sp. str. ICM39","Actinomyces",NA,1958,78553
+"unknown","Aeromonas hydrophila SSU","Aeromonas","Aeromonas hydrophila",4449,71509
+"unknown","Aeromonas veronii AER39","Aeromonas","Aeromonas veronii",3948,71513
+"unknown","Aeromonas veronii AMC34","Aeromonas","Aeromonas veronii",4117,71515
+"unknown","Aeromonas veronii AMC34","Aeromonas","Aeromonas veronii",3986,71517
+"unknown","Aeromonas veronii AMC34","Aeromonas","Aeromonas veronii",4036,71519
+"unknown","Afipia broomeae ATCC 49717","Afipia","Afipia broomeae",5042,52155
+"unknown","Afipia clevelandensis ATCC 49720","Afipia","Afipia clevelandensis",4209,52157
+"unknown","Afipia felis ATCC 53690","Afipia","Afipia felis",4046,52159
+"unknown","Alistipes sp. HGB5","Alistipes",NA,2955,54031
+"unknown","Alloiococcus otitis ATCC 51267","Alloiococcus","Alloiococcus otitis",1630,52161
+"unknown","Atopobium minutum 10063974","Atopobium","Atopobium minutum",1539,64799
+"unknown","Atopobium sp. ICM58","Atopobium",NA,2117,78555
+"unknown","Bacteroides caccae CL03T12C61","Bacteroides","Bacteroides caccae",4587,64801
+"unknown","Bacteroides cellulosilyticus CL02T12C19","Bacteroides","Bacteroides cellulosilyticus",6366,64803
+"unknown","Bacteroides dorei CL02T00C15","Bacteroides","Bacteroides dorei",5197,64805
+"unknown","Bacteroides dorei CL02T12C06","Bacteroides","Bacteroides dorei",5196,64807
+"unknown","Bacteroides dorei CL03T12C01","Bacteroides","Bacteroides dorei",4417,64809
+"unknown","Bacteroides fragilis CL03T00C08","Bacteroides","Bacteroides fragilis",4366,64811
+"unknown","Bacteroides fragilis CL03T12C07","Bacteroides","Bacteroides fragilis",4367,64813
+"unknown","Bacteroides fragilis CL05T00C42","Bacteroides","Bacteroides fragilis",4429,64815
+"unknown","Bacteroides fragilis CL05T12C13","Bacteroides","Bacteroides fragilis",4436,64817
+"unknown","Bacteroides fragilis CL07T00C01","Bacteroides","Bacteroides fragilis",4590,64819
+"unknown","Bacteroides fragilis CL07T12C05","Bacteroides","Bacteroides fragilis",4605,64821
+"unknown","Bacteroides fragilis HMW 610","Bacteroides","Bacteroides fragilis",4679,71525
+"unknown","Bacteroides fragilis HMW 615","Bacteroides","Bacteroides fragilis",4495,71527
+"unknown","Bacteroides fragilis HMW 616","Bacteroides","Bacteroides fragilis",4621,71529
+"unknown","Bacteroides nordii CL02T12C05","Bacteroides","Bacteroides nordii",4420,64823
+"unknown","Bacteroides ovatus CL02T12C04","Bacteroides","Bacteroides ovatus",6378,64825
+"unknown","Bacteroides ovatus CL03T12C18","Bacteroides","Bacteroides ovatus",5524,64827
+"unknown","Bacteroides salyersiae CL02T12C01","Bacteroides","Bacteroides salyersiae",4588,64829
+"unknown","Bacteroides stercoris CC31F","Bacteroides","Bacteroides stercoris",3477,71531
+"unknown","Bacteroides thetaiotaomicron CL09T03C10","Bacteroides","Bacteroides thetaiotaomicron",4201,64831
+"unknown","Bacteroides uniformis CL03T00C23","Bacteroides","Bacteroides uniformis",4190,64833
+"unknown","Bacteroides uniformis CL03T12C37","Bacteroides","Bacteroides uniformis",4138,64835
+"unknown","Bacteroides vulgatus CL09T03C04","Bacteroides","Bacteroides vulgatus",4041,64837
+"unknown","Bacteroides xylanisolvens CL03T12C04","Bacteroides","Bacteroides xylanisolvens",4759,64839
+"unknown","Bergeyella zoohelcum ATCC 43767","Bergeyella","Bergeyella zoohelcum",2138,52163
+"unknown","Bergeyella zoohelcum CCUG 30536","Bergeyella","Bergeyella zoohelcum",2334,52165
+"unknown","Bifidobacterium longum subsp. longum 1-6B","Bifidobacterium","Bifidobacterium longum",2425,89647
+"unknown","Bifidobacterium longum subsp. longum 35B","Bifidobacterium","Bifidobacterium longum",2260,89649
+"unknown","Clostridiales bacterium OBRC5-5",NA,NA,2662,78963
+"unknown","Clostridium bolteae 90A5","Clostridium","Clostridium bolteae",5761,64845
+"unknown","Clostridium bolteae 90A9","Clostridium","Clostridium bolteae",5746,64847
+"unknown","Clostridium bolteae 90B3","Clostridium","Clostridium bolteae",5972,64849
+"unknown","Clostridium bolteae 90B7","Clostridium","Clostridium bolteae",5801,64851
+"unknown","Clostridium bolteae 90B8","Clostridium","Clostridium bolteae",5941,64853
+"unknown","Clostridium butyricum 60E.3","Clostridium","Clostridium butyricum",4152,64855
+"unknown","Clostridium clostridioforme 90A1","Clostridium","Clostridium clostridioforme",5583,64857
+"unknown","Clostridium clostridioforme 90A3","Clostridium","Clostridium clostridioforme",5149,64859
+"unknown","Clostridium clostridioforme 90A4","Clostridium","Clostridium clostridioforme",5632,64861
+"unknown","Clostridium clostridioforme 90A6","Clostridium","Clostridium clostridioforme",5773,64863
+"unknown","Clostridium clostridioforme 90A7","Clostridium","Clostridium clostridioforme",5634,64865
+"unknown","Clostridium clostridioforme 90A8","Clostridium","Clostridium clostridioforme",5828,64867
+"unknown","Clostridium clostridioforme 90B1","Clostridium","Clostridium clostridioforme",5235,64869
+"unknown","Clostridium clostridioforme CM201","Clostridium","Clostridium clostridioforme",5328,64871
+"unknown","Clostridium colicanis 209318","Clostridium","Clostridium colicanis",3296,64873
+"unknown","Clostridium difficile 002-P50-2011","Clostridium","Clostridium difficile",3840,64719
+"unknown","Clostridium difficile 050-P50-2011","Clostridium","Clostridium difficile",3962,64721
+"unknown","Clostridium hathewayi 12489931","Clostridium","Clostridium hathewayi",5936,64875
+"unknown","Clostridium innocuum 2959","Clostridium","Clostridium innocuum",4667,64877
+"unknown","Corynebacterium sp. KPL1814","Corynebacterium",NA,2322,169437
+"unknown","Corynebacterium sp. KPL1817","Corynebacterium",NA,2321,169438
+"unknown","Corynebacterium sp. KPL1818","Corynebacterium",NA,2411,169439
+"unknown","Corynebacterium sp. KPL1821","Corynebacterium",NA,2324,169440
+"unknown","Corynebacterium sp. KPL1855","Corynebacterium",NA,2316,169442
+"unknown","Corynebacterium sp. KPL1856","Corynebacterium",NA,2319,169443
+"unknown","Corynebacterium sp. KPL1857","Corynebacterium",NA,2339,169444
+"unknown","Corynebacterium sp. KPL1859","Corynebacterium",NA,2356,169446
+"unknown","Corynebacterium sp. KPL1860","Corynebacterium",NA,2332,169447
+"unknown","Corynebacterium sp. KPL1986","Corynebacterium",NA,2385,170359
+"unknown","Corynebacterium sp. KPL1989","Corynebacterium",NA,2072,170362
+"unknown","Corynebacterium sp. KPL1995","Corynebacterium",NA,2067,170364
+"unknown","Corynebacterium sp. KPL1996","Corynebacterium",NA,2386,170365
+"unknown","Corynebacterium sp. KPL1998","Corynebacterium",NA,2384,170367
+"unknown","Corynebacterium sp. KPL2004","Corynebacterium",NA,2387,170372
+"unknown","Delftia acidovorans CCUG 15835","Delftia","Delftia acidovorans",6210,52169
+"unknown","Delftia acidovorans CCUG 274B","Delftia","Delftia acidovorans",6374,52167
+"unknown","Dolosigranulum pigrum ATCC 51524","Dolosigranulum","Dolosigranulum pigrum",1692,52171
+"unknown","Eikenella corrodens CC92I","Eikenella","Eikenella corrodens",2096,71555
+"unknown","Enterococcus faecalis 599","Enterococcus","Enterococcus faecalis",3155,81957
+"unknown","Enterococcus faecalis E12","Enterococcus","Enterococcus faecalis",3003,78597
+"unknown","Enterococcus faecalis ERV103","Enterococcus","Enterococcus faecalis",3131,81959
+"unknown","Enterococcus faecalis ERV116","Enterococcus","Enterococcus faecalis",3126,81961
+"unknown","Enterococcus faecalis ERV129","Enterococcus","Enterococcus faecalis",3257,81963
+"unknown","Enterococcus faecalis ERV25","Enterococcus","Enterococcus faecalis",3197,81965
+"unknown","Enterococcus faecalis ERV31","Enterococcus","Enterococcus faecalis",3128,81967
+"unknown","Enterococcus faecalis ERV37","Enterococcus","Enterococcus faecalis",3253,81969
+"unknown","Enterococcus faecalis ERV41","Enterococcus","Enterococcus faecalis",3290,81971
+"unknown","Enterococcus faecalis ERV62","Enterococcus","Enterococcus faecalis",3221,81973
+"unknown","Enterococcus faecalis ERV63","Enterococcus","Enterococcus faecalis",3338,81975
+"unknown","Enterococcus faecalis ERV65","Enterococcus","Enterococcus faecalis",3202,81977
+"unknown","Enterococcus faecalis ERV68","Enterococcus","Enterococcus faecalis",3272,81979
+"unknown","Enterococcus faecalis ERV72","Enterococcus","Enterococcus faecalis",3262,81981
+"unknown","Enterococcus faecalis ERV73","Enterococcus","Enterococcus faecalis",3254,81983
+"unknown","Enterococcus faecalis ERV81","Enterococcus","Enterococcus faecalis",3267,81985
+"unknown","Enterococcus faecalis ERV85","Enterococcus","Enterococcus faecalis",3275,81987
+"unknown","Enterococcus faecalis ERV93","Enterococcus","Enterococcus faecalis",3182,81989
+"unknown","Enterococcus faecalis R508","Enterococcus","Enterococcus faecalis",2750,81991
+"unknown","Enterococcus faecalis TX0309A","Enterococcus","Enterococcus faecalis",3205,47161
+"unknown","Enterococcus faecalis TX0309B","Enterococcus","Enterococcus faecalis",3210,47163
+"unknown","Enterococcus faecalis TX0411","Enterococcus","Enterococcus faecalis",3245,47167
+"unknown","Enterococcus faecalis TX0470","Enterococcus","Enterococcus faecalis",2902,47169
+"unknown","Enterococcus faecalis TX4000","Enterococcus","Enterococcus faecalis",2858,47133
+"unknown","Enterococcus faecium 503","Enterococcus","Enterococcus faecium",2905,81995
+"unknown","Enterococcus faecium 504","Enterococcus","Enterococcus faecium",2782,81997
+"unknown","Enterococcus faecium 505","Enterococcus","Enterococcus faecium",2656,81999
+"unknown","Enterococcus faecium 506","Enterococcus","Enterococcus faecium",3027,82001
+"unknown","Enterococcus faecium 509","Enterococcus","Enterococcus faecium",3191,82003
+"unknown","Enterococcus faecium 510","Enterococcus","Enterococcus faecium",3071,82005
+"unknown","Enterococcus faecium 511","Enterococcus","Enterococcus faecium",3204,82007
+"unknown","Enterococcus faecium 513","Enterococcus","Enterococcus faecium",3014,82009
+"unknown","Enterococcus faecium 514","Enterococcus","Enterococcus faecium",3139,82011
+"unknown","Enterococcus faecium 515","Enterococcus","Enterococcus faecium",3056,82015
+"unknown","Enterococcus faecium C1904","Enterococcus","Enterococcus faecium",3036,82017
+"unknown","Enterococcus faecium C497","Enterococcus","Enterococcus faecium",2867,82019
+"unknown","Enterococcus faecium C621","Enterococcus","Enterococcus faecium",3097,82021
+"unknown","Enterococcus faecium E417","Enterococcus","Enterococcus faecium",3085,82023
+"unknown","Enterococcus faecium E422","Enterococcus","Enterococcus faecium",3122,82025
+"unknown","Enterococcus faecium ERV1","Enterococcus","Enterococcus faecium",3065,82027
+"unknown","Enterococcus faecium ERV102","Enterococcus","Enterococcus faecium",3095,82029
+"unknown","Enterococcus faecium ERV161","Enterococcus","Enterococcus faecium",2971,82031
+"unknown","Enterococcus faecium ERV165","Enterococcus","Enterococcus faecium",3082,82033
+"unknown","Enterococcus faecium ERV168","Enterococcus","Enterococcus faecium",3181,82035
+"unknown","Enterococcus faecium ERV26","Enterococcus","Enterococcus faecium",3336,82037
+"unknown","Enterococcus faecium ERV38","Enterococcus","Enterococcus faecium",3216,82039
+"unknown","Enterococcus faecium ERV69","Enterococcus","Enterococcus faecium",3184,82041
+"unknown","Enterococcus faecium ERV99","Enterococcus","Enterococcus faecium",2908,82043
+"unknown","Enterococcus faecium P1123","Enterococcus","Enterococcus faecium",3255,82045
+"unknown","Enterococcus faecium P1137","Enterococcus","Enterococcus faecium",2916,82047
+"unknown","Enterococcus faecium P1139","Enterococcus","Enterococcus faecium",3248,82049
+"unknown","Enterococcus faecium P1140","Enterococcus","Enterococcus faecium",3099,82051
+"unknown","Enterococcus faecium P1190","Enterococcus","Enterococcus faecium",3082,82053
+"unknown","Enterococcus faecium P1986","Enterococcus","Enterococcus faecium",3243,82055
+"unknown","Enterococcus faecium R446","Enterococcus","Enterococcus faecium",3265,82057
+"unknown","Enterococcus faecium R494","Enterococcus","Enterococcus faecium",3035,82059
+"unknown","Enterococcus faecium R496","Enterococcus","Enterococcus faecium",3334,82061
+"unknown","Enterococcus faecium R497","Enterococcus","Enterococcus faecium",3266,82063
+"unknown","Enterococcus faecium R499","Enterococcus","Enterococcus faecium",3026,82065
+"unknown","Enterococcus faecium R501","Enterococcus","Enterococcus faecium",3273,82067
+"unknown","Enterococcus faecium S447","Enterococcus","Enterococcus faecium",3242,82069
+"unknown","Enterococcus faecium TX1337RF","Enterococcus","Enterococcus faecium",2754,81993
+"unknown","Enterococcus faecium V689","Enterococcus","Enterococcus faecium",3008,82071
+"unknown","Escherichia coli 110957","Escherichia","Escherichia coli",5577,183798
+"unknown","Escherichia coli 113290","Escherichia","Escherichia coli",5552,183799
+"unknown","Escherichia coli 113302","Escherichia","Escherichia coli",5141,183800
+"unknown","Escherichia coli 113303","Escherichia","Escherichia coli",5191,183801
+"unknown","Escherichia coli 907357","Escherichia","Escherichia coli",5102,183802
+"unknown","Escherichia coli 907391","Escherichia","Escherichia coli",5299,183803
+"unknown","Escherichia coli 907446","Escherichia","Escherichia coli",5326,183804
+"unknown","Escherichia coli 907672","Escherichia","Escherichia coli",4935,183805
+"unknown","Escherichia coli 907700","Escherichia","Escherichia coli",5275,183806
+"unknown","Escherichia coli 907701","Escherichia","Escherichia coli",5285,183807
+"unknown","Escherichia coli 907710","Escherichia","Escherichia coli",4899,183808
+"unknown","Escherichia coli 907713","Escherichia","Escherichia coli",5867,183809
+"unknown","Escherichia coli 907715","Escherichia","Escherichia coli",5402,183810
+"unknown","Escherichia coli 907779","Escherichia","Escherichia coli",5390,183811
+"unknown","Escherichia coli 907889","Escherichia","Escherichia coli",5690,183812
+"unknown","Escherichia coli 907892","Escherichia","Escherichia coli",5457,183813
+"unknown","Escherichia coli 908519","Escherichia","Escherichia coli",5660,183814
+"unknown","Escherichia coli 908521","Escherichia","Escherichia coli",5356,183815
+"unknown","Escherichia coli 908522","Escherichia","Escherichia coli",5440,183816
+"unknown","Escherichia coli 908524","Escherichia","Escherichia coli",5247,183817
+"unknown","Escherichia coli 908525","Escherichia","Escherichia coli",5398,183818
+"unknown","Escherichia coli 908541","Escherichia","Escherichia coli",5238,183819
+"unknown","Escherichia coli 908555","Escherichia","Escherichia coli",4939,183820
+"unknown","Escherichia coli 908573","Escherichia","Escherichia coli",5526,183821
+"unknown","Escherichia coli 908585","Escherichia","Escherichia coli",5265,183822
+"unknown","Escherichia coli 908616","Escherichia","Escherichia coli",5514,183823
+"unknown","Escherichia coli 908624","Escherichia","Escherichia coli",5333,183824
+"unknown","Escherichia coli 908632","Escherichia","Escherichia coli",5311,183825
+"unknown","Escherichia coli 908658","Escherichia","Escherichia coli",5191,183826
+"unknown","Escherichia coli 908675","Escherichia","Escherichia coli",5371,183827
+"unknown","Escherichia coli 908691","Escherichia","Escherichia coli",5372,183828
+"unknown","Escherichia coli 909945-2","Escherichia","Escherichia coli",5166,183830
+"unknown","Escherichia coli 910096-2","Escherichia","Escherichia coli",5251,183833
+"unknown","Escherichia coli A25922R","Escherichia","Escherichia coli",5279,183831
+"unknown","Escherichia coli A35218R","Escherichia","Escherichia coli",5255,183832
+"unknown","Facklamia ignava CCUG 37419","Facklamia","Facklamia ignava",1643,52179
+"unknown","Facklamia languida CCUG 37842","Facklamia","Facklamia languida",1718,52177
+"unknown","Facklamia languida CCUG 37842","Facklamia","Facklamia languida",1528,52181
+"unknown","Fusobacterium nucleatum subsp. animalis OT 420","Fusobacterium","Fusobacterium nucleatum",2307,64879
+"unknown","Haemophilus haemolyticus HK386","Haemophilus","Haemophilus haemolyticus",1731,75145
+"unknown","Haemophilus parahaemolyticus HK385","Haemophilus","Haemophilus parahaemolyticus",1980,75139
+"unknown","Haemophilus parainfluenzae ATCC 33392","Haemophilus","Haemophilus parainfluenzae",2008,66117
+"unknown","Haemophilus parainfluenzae HK2019","Haemophilus","Haemophilus parainfluenzae",2023,75175
+"unknown","Haemophilus paraphrohaemolyticus HK411","Haemophilus","Haemophilus paraphrohaemolyticus",2025,75147
+"unknown","Haemophilus pittmaniae HK 85","Haemophilus","Haemophilus pittmaniae",2390,67189
+"unknown","Helcococcus kunzii ATCC 51366","Helcococcus","Helcococcus kunzii",1882,52183
+"unknown","Klebsiella oxytoca 09-7231","Klebsiella","Klebsiella oxytoca",5673,52135
+"unknown","Klebsiella oxytoca 10-5242","Klebsiella","Klebsiella oxytoca",5353,52137
+"unknown","Klebsiella oxytoca 10-5243","Klebsiella","Klebsiella oxytoca",5494,52139
+"unknown","Klebsiella oxytoca 10-5244","Klebsiella","Klebsiella oxytoca",5849,52141
+"unknown","Klebsiella oxytoca 10-5245","Klebsiella","Klebsiella oxytoca",5735,52143
+"unknown","Klebsiella oxytoca 10-5246","Klebsiella","Klebsiella oxytoca",5310,52145
+"unknown","Klebsiella oxytoca 10-5248","Klebsiella","Klebsiella oxytoca",5575,52149
+"unknown","Klebsiella oxytoca 10-5249","Klebsiella","Klebsiella oxytoca",5498,52151
+"unknown","Klebsiella oxytoca 10-5250","Klebsiella","Klebsiella oxytoca",5612,52153
+"unknown","Klebsiella pneumoniae 909957","Klebsiella","Klebsiella pneumoniae",6048,183829
+"unknown","Lachnospiraceae bacterium ACC2",NA,NA,2071,49875
+"unknown","Lactobacillus catenaformis OT 569","Lactobacillus","Lactobacillus catenaformis",1884,64881
+"unknown","Massilia timonae CCUG 45783","Massilia","Massilia timonae",5236,52185
+"unknown","Megasphaera sp. UPII 135-E","Megasphaera",NA,1513,64691
+"unknown","Mogibacterium timidum ATCC 33093","Mogibacterium","Mogibacterium timidum",1657,219678
+"unknown","Myroides odoratimimus CCUG 10230","Myroides","Myroides odoratimimus",3585,52189
+"unknown","Myroides odoratimimus CCUG 12700","Myroides","Myroides odoratimimus",3529,52191
+"unknown","Myroides odoratimimus CCUG 12901","Myroides","Myroides odoratimimus",3625,52193
+"unknown","Myroides odoratimimus CCUG 3837","Myroides","Myroides odoratimimus",3561,52187
+"unknown","Myroides odoratimimus CIP 101113","Myroides","Myroides odoratimimus",3637,52195
+"unknown","Myroides odoratimimus CIP 103059","Myroides","Myroides odoratimimus",3783,52197
+"unknown","Neisseria sicca VK64, NCTC 4591","Neisseria","Neisseria sicca",3167,75141
+"unknown","Oribacterium sp. ACB1","Oribacterium",NA,2129,49877
+"unknown","Oribacterium sp. ACB7","Oribacterium",NA,2220,49879
+"unknown","Oribacterium sp. ACB8","Oribacterium",NA,2241,78569
+"unknown","Parabacteroides distasonis CL03T12C09","Parabacteroides","Parabacteroides distasonis",4224,64883
+"unknown","Parabacteroides distasonis CL09T03C24","Parabacteroides","Parabacteroides distasonis",4495,64885
+"unknown","Parabacteroides goldsteinii CL02T12C30","Parabacteroides","Parabacteroides goldsteinii",5406,64887
+"unknown","Parabacteroides johnsonii CL02T12C29","Parabacteroides","Parabacteroides johnsonii",3758,64889
+"unknown","Parabacteroides merdae CL03T12C32","Parabacteroides","Parabacteroides merdae",4134,64891
+"unknown","Parabacteroides merdae CL09T00C40","Parabacteroides","Parabacteroides merdae",3703,64893
+"unknown","Pasteurella bettyae CCUG 2042","Pasteurella","Pasteurella bettyae",2178,75143
+"unknown","Peptostreptococcaceae bacterium ACC19a",NA,NA,2277,49887
+"unknown","Peptostreptococcaceae bacterium CM2",NA,NA,1973,49889
+"unknown","Peptostreptococcaceae bacterium CM5",NA,NA,2325,49891
+"unknown","Porphyromonas sp. KLE 1280","Porphyromonas",NA,1763,64723
+"unknown","Prevotella maculosa OT 289","Prevotella","Prevotella maculosa",2574,64895
+"unknown","Prevotella sp. CC14M","Prevotella",NA,2629,71565
+"unknown","Prevotella sp. CC98A","Prevotella",NA,2490,71567
+"unknown","Propionibacterium sp. KPL1838","Propionibacterium",NA,2299,169461
+"unknown","Propionibacterium sp. KPL1844","Propionibacterium",NA,1803,169462
+"unknown","Propionibacterium sp. KPL1847","Propionibacterium",NA,2287,169463
+"unknown","Propionibacterium sp. KPL1849","Propionibacterium",NA,2288,169464
+"unknown","Propionibacterium sp. KPL1852","Propionibacterium",NA,2304,169465
+"unknown","Propionibacterium sp. KPL1854","Propionibacterium",NA,2374,169466
+"unknown","Propionibacterium sp. KPL2000","Propionibacterium",NA,2340,170369
+"unknown","Propionibacterium sp. KPL2003","Propionibacterium",NA,2308,170371
+"unknown","Propionibacterium sp. KPL2005","Propionibacterium",NA,2345,170373
+"unknown","Propionibacterium sp. KPL2008","Propionibacterium",NA,2369,170374
+"unknown","Propionibacterium sp. KPL2009","Propionibacterium",NA,2312,170375
+"unknown","Pseudomonas sp. P179","Pseudomonas",NA,6293,169471
+"unknown","Ruminococcaceae bacterium CC59_002D",NA,NA,2765,71573
+"unknown","Ruminococcus gnavus CC55_001C","Ruminococcus","Ruminococcus gnavus",2975,71557
+"unknown","Sphingobium yanoikuyae ATCC 51230","Sphingobium","Sphingobium yanoikuyae",5067,52201
+"unknown","Staphylococcus aureus subsp. aureus CM05","Staphylococcus","Staphylococcus aureus",2831,82073
+"unknown","Staphylococcus epidermidis E13A","Staphylococcus","Staphylococcus epidermidis",2281,156777
+"unknown","Staphylococcus epidermidis NIH04003","Staphylococcus","Staphylococcus epidermidis",2307,86759
+"unknown","Staphylococcus epidermidis NIH04008","Staphylococcus","Staphylococcus epidermidis",2682,62395
+"unknown","Staphylococcus epidermidis NIH05001","Staphylococcus","Staphylococcus epidermidis",2605,62391
+"unknown","Staphylococcus epidermidis NIH05003","Staphylococcus","Staphylococcus epidermidis",2251,86761
+"unknown","Staphylococcus epidermidis NIH05005","Staphylococcus","Staphylococcus epidermidis",2361,62389
+"unknown","Staphylococcus epidermidis NIH051475","Staphylococcus","Staphylococcus epidermidis",2345,86755
+"unknown","Staphylococcus epidermidis NIH051668","Staphylococcus","Staphylococcus epidermidis",2560,86757
+"unknown","Staphylococcus epidermidis NIH06004","Staphylococcus","Staphylococcus epidermidis",2476,86763
+"unknown","Staphylococcus epidermidis NIH08001","Staphylococcus","Staphylococcus epidermidis",2384,86765
+"unknown","Staphylococcus epidermidis NIHLM001","Staphylococcus","Staphylococcus epidermidis",2505,62387
+"unknown","Staphylococcus epidermidis NIHLM003","Staphylococcus","Staphylococcus epidermidis",2518,62385
+"unknown","Staphylococcus epidermidis NIHLM008","Staphylococcus","Staphylococcus epidermidis",2292,62383
+"unknown","Staphylococcus epidermidis NIHLM015","Staphylococcus","Staphylococcus epidermidis",2288,62381
+"unknown","Staphylococcus epidermidis NIHLM018","Staphylococcus","Staphylococcus epidermidis",2373,62379
+"unknown","Staphylococcus epidermidis NIHLM020","Staphylococcus","Staphylococcus epidermidis",2198,62375
+"unknown","Staphylococcus epidermidis NIHLM021","Staphylococcus","Staphylococcus epidermidis",2379,62373
+"unknown","Staphylococcus epidermidis NIHLM023","Staphylococcus","Staphylococcus epidermidis",2401,62371
+"unknown","Staphylococcus epidermidis NIHLM031","Staphylococcus","Staphylococcus epidermidis",2370,62377
+"unknown","Staphylococcus epidermidis NIHLM037","Staphylococcus","Staphylococcus epidermidis",2319,62369
+"unknown","Staphylococcus epidermidis NIHLM039","Staphylococcus","Staphylococcus epidermidis",2389,62365
+"unknown","Staphylococcus epidermidis NIHLM040","Staphylococcus","Staphylococcus epidermidis",2402,62363
+"unknown","Staphylococcus epidermidis NIHLM049","Staphylococcus","Staphylococcus epidermidis",2350,62361
+"unknown","Staphylococcus epidermidis NIHLM053","Staphylococcus","Staphylococcus epidermidis",2465,62359
+"unknown","Staphylococcus epidermidis NIHLM057","Staphylococcus","Staphylococcus epidermidis",2428,62357
+"unknown","Staphylococcus epidermidis NIHLM061","Staphylococcus","Staphylococcus epidermidis",2460,62355
+"unknown","Staphylococcus epidermidis NIHLM067","Staphylococcus","Staphylococcus epidermidis",2249,62353
+"unknown","Staphylococcus epidermidis NIHLM070","Staphylococcus","Staphylococcus epidermidis",2252,62351
+"unknown","Staphylococcus epidermidis NIHLM087","Staphylococcus","Staphylococcus epidermidis",2343,62349
+"unknown","Staphylococcus epidermidis NIHLM088","Staphylococcus","Staphylococcus epidermidis",2292,62347
+"unknown","Staphylococcus epidermidis NIHLM095","Staphylococcus","Staphylococcus epidermidis",2300,62345
+"unknown","Streptococcus australis SK956","Streptococcus","Streptococcus australis",2025,67183
+"unknown","Streptococcus constellatus pharyngis SK1060, CCUG 46377","Streptococcus","Streptococcus constellatus",2449,67177
+"unknown","Streptococcus cristatus SK231","Streptococcus","Streptococcus cristatus",1923,67185
+"unknown","Streptococcus infantis ATCC 700799","Streptococcus","Streptococcus infantis",1876,158721
+"unknown","Streptococcus infantis SK1076","Streptococcus","Streptococcus infantis",1762,65583
+"unknown","Streptococcus infantis SK970","Streptococcus","Streptococcus infantis",2144,67191
+"unknown","Streptococcus infantis X","Streptococcus","Streptococcus infantis",1917,64693
+"unknown","Streptococcus intermedius F0413","Streptococcus","Streptococcus intermedius",1916,52089
+"unknown","Streptococcus mitis SK1073","Streptococcus","Streptococcus mitis",2003,66111
+"unknown","Streptococcus mitis SK1080","Streptococcus","Streptococcus mitis",1854,66113
+"unknown","Streptococcus mitis SK569","Streptococcus","Streptococcus mitis",1850,67187
+"unknown","Streptococcus oralis SK255","Streptococcus","Streptococcus oralis",2004,65581
+"unknown","Streptococcus oralis SK313","Streptococcus","Streptococcus oralis",2022,67193
+"unknown","Streptococcus parasanguinis F0405","Streptococcus","Streptococcus parasanguinis",1978,53565
+"unknown","Streptococcus parasanguinis F0449","Streptococcus","Streptococcus parasanguinis",1963,75149
+"unknown","Streptococcus parasanguinis SK236","Streptococcus","Streptococcus parasanguinis",1898,67179
+"unknown","Streptococcus pneumoniae PCS125219","Streptococcus","Streptococcus pneumoniae",2303,89171
+"unknown","Streptococcus pneumoniae PCS70012","Streptococcus","Streptococcus pneumoniae",2289,89173
+"unknown","Streptococcus pneumoniae PCS8106","Streptococcus","Streptococcus pneumoniae",2415,89165
+"unknown","Streptococcus pneumoniae PCS81218","Streptococcus","Streptococcus pneumoniae",2350,89175
+"unknown","Streptococcus pneumoniae PCS8203","Streptococcus","Streptococcus pneumoniae",2388,89167
+"unknown","Streptococcus pneumoniae PCS8235","Streptococcus","Streptococcus pneumoniae",2169,89169
+"unknown","Streptococcus pneumoniae PNI0002","Streptococcus","Streptococcus pneumoniae",2352,89177
+"unknown","Streptococcus pneumoniae PNI0006","Streptococcus","Streptococcus pneumoniae",2285,89179
+"unknown","Streptococcus pneumoniae PNI0007","Streptococcus","Streptococcus pneumoniae",2381,89181
+"unknown","Streptococcus pneumoniae PNI0008","Streptococcus","Streptococcus pneumoniae",2325,89183
+"unknown","Streptococcus pneumoniae PNI0009","Streptococcus","Streptococcus pneumoniae",2353,89185
+"unknown","Streptococcus pneumoniae PNI0010","Streptococcus","Streptococcus pneumoniae",2305,89187
+"unknown","Streptococcus pneumoniae PNI0076","Streptococcus","Streptococcus pneumoniae",2403,89189
+"unknown","Streptococcus pneumoniae PNI0153","Streptococcus","Streptococcus pneumoniae",2330,89191
+"unknown","Streptococcus pneumoniae PNI0159","Streptococcus","Streptococcus pneumoniae",2186,89193
+"unknown","Streptococcus pneumoniae PNI0164","Streptococcus","Streptococcus pneumoniae",2231,89195
+"unknown","Streptococcus pneumoniae PNI0197","Streptococcus","Streptococcus pneumoniae",2130,89197
+"unknown","Streptococcus pneumoniae PNI0199","Streptococcus","Streptococcus pneumoniae",2333,89199
+"unknown","Streptococcus pneumoniae PNI0360","Streptococcus","Streptococcus pneumoniae",2354,89203
+"unknown","Streptococcus pneumoniae PNI0427","Streptococcus","Streptococcus pneumoniae",2336,89205
+"unknown","Streptococcus pneumoniae PNI0446","Streptococcus","Streptococcus pneumoniae",2428,89207
+"unknown","Streptococcus sp. CC87K","Streptococcus",NA,2067,71579
+"unknown","Streptococcus sp. CC94A","Streptococcus",NA,2380,71581
+"unknown","Streptococcus sp. SK643","Streptococcus",NA,1788,75171
+"unknown","Treponema denticola H-22","Treponema","Treponema denticola",2520,64915
+"unknown","Turicella otitidis ATCC 51513","Turicella","Turicella otitidis",1846,52203
+"unknown","Veillonella atypica ACS-134-V-Col7a","Veillonella","Veillonella atypica",1903,51079
+"urogenital_tract","Acidaminococcus sp. BV3L6","Acidaminococcus",NA,2115,89623
+"urogenital_tract","Acinetobacter baumannii ATCC 19606","Acinetobacter","Acinetobacter baumannii",3832,38509
+"urogenital_tract","Actinobaculum massiliae ACS-171-V-Col2","Actinobaculum","Actinobaculum massiliae",1697,52091
+"urogenital_tract","Actinobaculum schaalii FB123-CNA-2","Actinobaculum","Actinobaculum schaalii",1730,52093
+"urogenital_tract","Actinomyces coleocanis DSM 15436","Actinomyces","Actinomyces coleocanis",1546,31427
+"urogenital_tract","Actinomyces europaeus ACS-120-V-Col10b","Actinomyces","Actinomyces europaeus",1670,52095
+"urogenital_tract","Actinomyces neuii BVS029A5","Actinomyces","Actinomyces neuii",1935,52975
+"urogenital_tract","Actinomyces neuii MJR8396A","Actinomyces","Actinomyces neuii",2224,272090
+"urogenital_tract","Actinomyces sp. S4-C9","Actinomyces",NA,1447,187459
+"urogenital_tract","Actinomyces sp. S6-Spd3","Actinomyces",NA,1763,187458
+"urogenital_tract","Actinomyces turicensis ACS-279-V-Col4","Actinomyces","Actinomyces turicensis",1717,52101
+"urogenital_tract","Actinomyces urogenitalis DSM 15434","Actinomyces","Actinomyces urogenitalis",2403,31429
+"urogenital_tract","Actinomyces urogenitalis S6-C4","Actinomyces","Actinomyces urogenitalis",1929,187457
+"urogenital_tract","Aerococcus christensenii KA00635","Aerococcus","Aerococcus christensenii",1769,272079
+"urogenital_tract","Aerococcus urinae ACS-120-V-Col10a","Aerococcus","Aerococcus urinae",1726,51073
+"urogenital_tract","Aerococcus viridans ATCC 11563","Aerococcus","Aerococcus viridans",1929,38729
+"urogenital_tract","Alloscardovia omnicolens CMW7705A","Alloscardovia","Alloscardovia omnicolens",1672,272106
+"urogenital_tract","Anaerococcus hydrogenalis ACS-025-V-Sch4","Anaerococcus","Anaerococcus hydrogenalis",1964,52027
+"urogenital_tract","Anaerococcus hydrogenalis MJR7738A","Anaerococcus","Anaerococcus hydrogenalis",2624,272116
+"urogenital_tract","Anaerococcus lactolyticus ATCC 51172","Anaerococcus","Anaerococcus lactolyticus",2253,30951
+"urogenital_tract","Anaerococcus lactolyticus S7-1-13","Anaerococcus","Anaerococcus lactolyticus",1717,187461
+"urogenital_tract","Anaerococcus prevotii ACS-065-V-Col13","Anaerococcus","Anaerococcus prevotii",1635,52025
+"urogenital_tract","Anaerococcus tetradius ATCC 35098","Anaerococcus","Anaerococcus tetradius",2079,31433
+"urogenital_tract","Anaerococcus tetradius MJR8151","Anaerococcus","Anaerococcus tetradius",1934,272092
+"urogenital_tract","Arcanobacterium sp. S3PF19","Arcanobacterium",NA,1003,187462
+"urogenital_tract","Arthrobacter albus DNF00011","Arthrobacter","Arthrobacter albus",1596,219659
+"urogenital_tract","Atopobium deltae DNF00019","Atopobium","Atopobium deltae",1442,272084
+"urogenital_tract","Atopobium parvulum DNF00906","Atopobium","Atopobium parvulum",1208,187519
+"urogenital_tract","Atopobium sp. BV3AC4","Atopobium",NA,1585,89625
+"urogenital_tract","Atopobium vaginae DSM 15829","Atopobium","Atopobium vaginae",1244,31435
+"urogenital_tract","Atopobium vaginae PB189-T1-4","Atopobium","Atopobium vaginae",1217,51071
+"urogenital_tract","Bacillus coagulans GED7749B","Bacillus","Bacillus coagulans",4048,272105
+"urogenital_tract","Bifidobacterium bifidum MJR8628B","Bifidobacterium","Bifidobacterium bifidum",2174,272088
+"urogenital_tract","Bifidobacterium breve ACS-071-V-Sch8b","Bifidobacterium","Bifidobacterium breve",1826,51077
+"urogenital_tract","Bifidobacterium breve GED8481","Bifidobacterium","Bifidobacterium breve",2255,272085
+"urogenital_tract","Bifidobacterium breve JCP7499","Bifidobacterium","Bifidobacterium breve",2281,181327
+"urogenital_tract","Bifidobacterium dentium Bd1","Bifidobacterium","Bifidobacterium dentium",2336,51373
+"urogenital_tract","Bifidobacterium dentium JCVIHMP022","Bifidobacterium","Bifidobacterium dentium",2278,31395
+"urogenital_tract","Bifidobacterium longum CMW7750","Bifidobacterium","Bifidobacterium longum",2196,272123
+"urogenital_tract","Brevibacterium mcbrellneri ATCC 49030","Brevibacterium","Brevibacterium mcbrellneri",2432,34583
+"urogenital_tract","Campylobacter ureolyticus ACS-301-V-Sch3b","Campylobacter","Campylobacter ureolyticus",1732,52129
+"urogenital_tract","Chryseobacterium gleum ATCC 35910","Chryseobacterium","Chryseobacterium gleum",5289,30953
+"urogenital_tract","Citrobacter freundii GED7749C","Citrobacter","Citrobacter freundii",4873,272104
+"urogenital_tract","Citrobacter koseri DNF00568","Citrobacter","Citrobacter koseri",5055,257374
+"urogenital_tract","Citrobacter koseri GED7778C","Citrobacter","Citrobacter koseri",4847,272112
+"urogenital_tract","Citrobacter koseri PSS7778B","Citrobacter","Citrobacter koseri",4877,272099
+"urogenital_tract","Clostridiales Family XI sp. BV3AC2",NA,NA,1785,89635
+"urogenital_tract","Clostridiales Family XI sp. BV3C26",NA,NA,1929,89637
+"urogenital_tract","Clostridiales Family XI. Incertae Sedis sp. S5-A11",NA,NA,2755,187464
+"urogenital_tract","Clostridiales Family XI. Incertae Sedis sp. S7-1-4",NA,NA,1482,187465
+"urogenital_tract","Clostridiales Family XIII. Incertae Sedis sp. S5-A14a",NA,NA,1151,187466
+"urogenital_tract","Clostridiales bacterium KA00581",NA,NA,1550,272080
+"urogenital_tract","Clostridiales genomosp. BVAB3 str. S7-24-11",NA,NA,1199,187463
+"urogenital_tract","Clostridiales genomosp. BVAB3 str. UPII9-5 genomosp",NA,NA,1567,42555
+"urogenital_tract","Clostridium perfringens MJR7757A","Clostridium","Clostridium perfringens",3408,272114
+"urogenital_tract","Coriobacteriaceae bacterium BV3Ac1",NA,NA,1610,89627
+"urogenital_tract","Coriobacteriales bacterium DNF00809",NA,NA,1711,272082
+"urogenital_tract","Corynebacterium aurimucosum ATCC 700975","Corynebacterium","Corynebacterium aurimucosum",2672,31451
+"urogenital_tract","Corynebacterium freneyi DNF00450","Corynebacterium","Corynebacterium freneyi",2007,187522
+"urogenital_tract","Corynebacterium genitalium ATCC 33030","Corynebacterium","Corynebacterium genitalium",2226,34587
+"urogenital_tract","Corynebacterium glucuronalyticum ATCC 51866","Corynebacterium","Corynebacterium glucuronalyticum",2733,31549
+"urogenital_tract","Corynebacterium glucuronalyticum ATCC 51867","Corynebacterium","Corynebacterium glucuronalyticum",2645,30957
+"urogenital_tract","Corynebacterium jeikeium ATCC 43734","Corynebacterium","Corynebacterium jeikeium",2224,31445
+"urogenital_tract","Corynebacterium lipophiloflavum DSM 44291","Corynebacterium","Corynebacterium lipophiloflavum",2371,31447
+"urogenital_tract","Corynebacterium pseudogenitalium ATCC 33035","Corynebacterium","Corynebacterium pseudogenitalium",2493,30955
+"urogenital_tract","Corynebacterium sp. DNF00584","Corynebacterium",NA,2623,257375
+"urogenital_tract","Corynebacterium striatum ATCC 6940","Corynebacterium","Corynebacterium striatum",2677,31449
+"urogenital_tract","Corynebacterium tuscaniense DNF00037","Corynebacterium","Corynebacterium tuscaniense",1792,219660
+"urogenital_tract","Dialister micraerophilus DSM 19965","Dialister","Dialister micraerophilus",1243,53029
+"urogenital_tract","Dialister microaerophilus UPII-345-E","Dialister","Dialister microaerophilus",1310,59521
+"urogenital_tract","Enterococcus durans FB129-CNAB-4","Enterococcus","Enterococcus durans",2580,52125
+"urogenital_tract","Enterococcus faecalis ATCC 29200","Enterococcus","Enterococcus faecalis",2955,31459
+"urogenital_tract","Enterococcus faecalis HH22","Enterococcus","Enterococcus faecalis",3227,31457
+"urogenital_tract","Enterococcus faecalis TX0312","Enterococcus","Enterococcus faecalis",2789,47165
+"urogenital_tract","Enterococcus faecalis TX0635","Enterococcus","Enterococcus faecalis",3263,47173
+"urogenital_tract","Enterococcus faecalis TX0855","Enterococcus","Enterococcus faecalis",3032,47177
+"urogenital_tract","Enterococcus faecium MJR8396B","Enterococcus","Enterococcus faecium",2762,272091
+"urogenital_tract","Eremococcus coleocola ACS-139-V-Col8","Eremococcus","Eremococcus coleocola",1720,54021
+"urogenital_tract","Escherichia coli 83972","Escherichia","Escherichia coli",5255,31467
+"urogenital_tract","Facklamia hominis ACS-120-V-Sch10","Facklamia","Facklamia hominis",1775,52113
+"urogenital_tract","Finegoldia magna ACS-171-V-Col3","Finegoldia","Finegoldia magna",1740,49435
+"urogenital_tract","Finegoldia magna ATCC 53516","Finegoldia","Finegoldia magna",1838,31469
+"urogenital_tract","Finegoldia magna BVS033A4","Finegoldia","Finegoldia magna",1904,51069
+"urogenital_tract","Finegoldia magna GED7760A","Finegoldia","Finegoldia magna",1819,272109
+"urogenital_tract","Finegoldia magna SY403409CC001050417","Finegoldia","Finegoldia magna",1956,51081
+"urogenital_tract","Fusobacterium equinum CMW8396","Fusobacterium","Fusobacterium equinum",1852,272098
+"urogenital_tract","Fusobacterium nucleatum MJR7757B","Fusobacterium","Fusobacterium nucleatum",2466,272113
+"urogenital_tract","Fusobacterium nucleatum subsp. nucleatum ATCC 23726","Fusobacterium","Fusobacterium nucleatum",2126,31471
+"urogenital_tract","Gardnerella vaginalis 315-A","Gardnerella","Gardnerella vaginalis",1290,52049
+"urogenital_tract","Gardnerella vaginalis 409-05","Gardnerella","Gardnerella vaginalis",1258,31001
+"urogenital_tract","Gardnerella vaginalis ATCC 14019","Gardnerella","Gardnerella vaginalis",1365,31473
+"urogenital_tract","Gardnerella vaginalis GED7275B","Gardnerella","Gardnerella vaginalis",1279,272096
+"urogenital_tract","Gardnerella vaginalis GED7760B","Gardnerella","Gardnerella vaginalis",1272,272108
+"urogenital_tract","Gardnerella vaginalis HMP9231","Gardnerella","Gardnerella vaginalis",1317,51067
+"urogenital_tract","Gardnerella vaginalis JCP7275","Gardnerella","Gardnerella vaginalis",1428,181312
+"urogenital_tract","Gardnerella vaginalis JCP7276","Gardnerella","Gardnerella vaginalis",1486,181313
+"urogenital_tract","Gardnerella vaginalis JCP7659","Gardnerella","Gardnerella vaginalis",1439,181314
+"urogenital_tract","Gardnerella vaginalis JCP7672","Gardnerella","Gardnerella vaginalis",1396,181315
+"urogenital_tract","Gardnerella vaginalis JCP7719","Gardnerella","Gardnerella vaginalis",1485,181316
+"urogenital_tract","Gardnerella vaginalis JCP8017A","Gardnerella","Gardnerella vaginalis",1515,181317
+"urogenital_tract","Gardnerella vaginalis JCP8017B","Gardnerella","Gardnerella vaginalis",1517,181318
+"urogenital_tract","Gardnerella vaginalis JCP8066","Gardnerella","Gardnerella vaginalis",1407,181319
+"urogenital_tract","Gardnerella vaginalis JCP8070","Gardnerella","Gardnerella vaginalis",1366,181320
+"urogenital_tract","Gardnerella vaginalis JCP8108","Gardnerella","Gardnerella vaginalis",1516,181321
+"urogenital_tract","Gardnerella vaginalis JCP8151A","Gardnerella","Gardnerella vaginalis",1452,181322
+"urogenital_tract","Gardnerella vaginalis JCP8151B","Gardnerella","Gardnerella vaginalis",1459,181323
+"urogenital_tract","Gardnerella vaginalis JCP8481A","Gardnerella","Gardnerella vaginalis",1482,181324
+"urogenital_tract","Gardnerella vaginalis JCP8481B","Gardnerella","Gardnerella vaginalis",1431,181325
+"urogenital_tract","Gardnerella vaginalis JCP8522","Gardnerella","Gardnerella vaginalis",1365,181326
+"urogenital_tract","Gardnerella vaginalis PSS7772B","Gardnerella","Gardnerella vaginalis",1404,272100
+"urogenital_tract","Gemella haemolysans DNF01167","Gemella","Gemella haemolysans",1795,272078
+"urogenital_tract","Haemophilus parainfluenzae HK262","Haemophilus","Haemophilus parainfluenzae",2001,75173
+"urogenital_tract","Jonquetella sp. BV3C21","Jonquetella",NA,1566,89629
+"urogenital_tract","Klebsiella pneumoniae MJR8396D","Klebsiella","Klebsiella pneumoniae",5697,272089
+"urogenital_tract","Klebsiella pneumoniae subsp. pneumoniae WGLW1","Klebsiella","Klebsiella pneumoniae",5170,169453
+"urogenital_tract","Lactobacillus coleohominis 101-4-CHN","Lactobacillus","Lactobacillus coleohominis",1712,37949
+"urogenital_tract","Lactobacillus crispatus 125-2-CHN","Lactobacillus","Lactobacillus crispatus",2142,38361
+"urogenital_tract","Lactobacillus crispatus 214-1","Lactobacillus","Lactobacillus crispatus",2163,40665
+"urogenital_tract","Lactobacillus crispatus CTV-05","Lactobacillus","Lactobacillus crispatus",2299,36325
+"urogenital_tract","Lactobacillus crispatus FB049-03","Lactobacillus","Lactobacillus crispatus",2433,52107
+"urogenital_tract","Lactobacillus crispatus FB077-07","Lactobacillus","Lactobacillus crispatus",2643,52105
+"urogenital_tract","Lactobacillus crispatus JV-V101","Lactobacillus","Lactobacillus crispatus",2209,30641
+"urogenital_tract","Lactobacillus crispatus MV-1A-US","Lactobacillus","Lactobacillus crispatus",2339,37951
+"urogenital_tract","Lactobacillus crispatus MV-3A-US","Lactobacillus","Lactobacillus crispatus",2390,38513
+"urogenital_tract","Lactobacillus delbrueckii subsp. bulgaricus PB2003/044-T3-4","Lactobacillus","Lactobacillus delbrueckii",1909,49619
+"urogenital_tract","Lactobacillus fermentum 28-3-CHN","Lactobacillus","Lactobacillus fermentum",1936,38517
+"urogenital_tract","Lactobacillus gasseri 202-4","Lactobacillus","Lactobacillus gasseri",1773,36379
+"urogenital_tract","Lactobacillus gasseri 224-1","Lactobacillus","Lactobacillus gasseri",2252,40683
+"urogenital_tract","Lactobacillus gasseri JV-V03","Lactobacillus","Lactobacillus gasseri",1977,31487
+"urogenital_tract","Lactobacillus gasseri MV-22","Lactobacillus","Lactobacillus gasseri",1956,31203
+"urogenital_tract","Lactobacillus gasseri PSS7772D","Lactobacillus","Lactobacillus gasseri",1934,272102
+"urogenital_tract","Lactobacillus iners ATCC 55195","Lactobacillus","Lactobacillus iners",1144,53061
+"urogenital_tract","Lactobacillus iners DSM 13335","Lactobacillus","Lactobacillus iners",1214,31491
+"urogenital_tract","Lactobacillus iners LEAF 2052A-d","Lactobacillus","Lactobacillus iners",1256,52043
+"urogenital_tract","Lactobacillus iners LEAF 2053A-b","Lactobacillus","Lactobacillus iners",1277,52041
+"urogenital_tract","Lactobacillus iners LEAF 2062A-h1","Lactobacillus","Lactobacillus iners",1265,52045
+"urogenital_tract","Lactobacillus iners LEAF 3008A-a","Lactobacillus","Lactobacillus iners",1210,52047
+"urogenital_tract","Lactobacillus iners LactinV 01V1-a","Lactobacillus","Lactobacillus iners",1527,52033
+"urogenital_tract","Lactobacillus iners LactinV 03V1-b","Lactobacillus","Lactobacillus iners",1459,52035
+"urogenital_tract","Lactobacillus iners LactinV 09V1-c","Lactobacillus","Lactobacillus iners",1361,52037
+"urogenital_tract","Lactobacillus iners LactinV 11V1-d","Lactobacillus","Lactobacillus iners",1338,52039
+"urogenital_tract","Lactobacillus iners SPIN 1401G","Lactobacillus","Lactobacillus iners",1238,52029
+"urogenital_tract","Lactobacillus iners SPIN 2503V10-D","Lactobacillus","Lactobacillus iners",1273,52031
+"urogenital_tract","Lactobacillus iners UPII 143-D","Lactobacillus","Lactobacillus iners",1186,60373
+"urogenital_tract","Lactobacillus iners UPII 60-B","Lactobacillus","Lactobacillus iners",1276,60375
+"urogenital_tract","Lactobacillus jensenii 115-3-CHN","Lactobacillus","Lactobacillus jensenii",1523,38645
+"urogenital_tract","Lactobacillus jensenii 1153","Lactobacillus","Lactobacillus jensenii",1347,31205
+"urogenital_tract","Lactobacillus jensenii 269-3","Lactobacillus","Lactobacillus jensenii",1575,34097
+"urogenital_tract","Lactobacillus jensenii 27-2-CHN","Lactobacillus","Lactobacillus jensenii",1506,37953
+"urogenital_tract","Lactobacillus jensenii JV-V16","Lactobacillus","Lactobacillus jensenii",1450,31493
+"urogenital_tract","Lactobacillus jensenii SJ-7A-US","Lactobacillus","Lactobacillus jensenii",1682,38515
+"urogenital_tract","Lactobacillus johnsonii ATCC 33200","Lactobacillus","Lactobacillus johnsonii",1838,31495
+"urogenital_tract","Lactobacillus oris PB013-T2-3","Lactobacillus","Lactobacillus oris",2038,54025
+"urogenital_tract","Lactobacillus salivarius ACS-116-V-Col5a","Lactobacillus","Lactobacillus salivarius",2121,49443
+"urogenital_tract","Lactobacillus vaginalis ATCC 49540","Lactobacillus","Lactobacillus vaginalis",1870,31507
+"urogenital_tract","Leptotrichia wadei KA00185","Leptotrichia","Leptotrichia wadei",2361,272072
+"urogenital_tract","Megasphaera elsdenii MJR8396C","Megasphaera","Megasphaera elsdenii",2422,272093
+"urogenital_tract","Megasphaera genomosp. type_1 str. 28L","Megasphaera",NA,1610,42553
+"urogenital_tract","Megasphaera sp. BV3C16-1","Megasphaera",NA,2196,89631
+"urogenital_tract","Megasphaera sp. UPII 199-6","Megasphaera",NA,1558,64689
+"urogenital_tract","Mobiluncus curtisii ATCC 43063","Mobiluncus","Mobiluncus curtisii",1909,31519
+"urogenital_tract","Mobiluncus curtisii ATCC 51333","Mobiluncus","Mobiluncus curtisii",1855,52983
+"urogenital_tract","Mobiluncus curtisii subsp. curtisii ATCC 35241","Mobiluncus","Mobiluncus curtisii",1894,34631
+"urogenital_tract","Mobiluncus curtisii subsp. holmesii ATCC 35242","Mobiluncus","Mobiluncus curtisii",1829,52991
+"urogenital_tract","Mobiluncus mulieris 28-1","Mobiluncus","Mobiluncus mulieris",2321,34103
+"urogenital_tract","Mobiluncus mulieris ATCC 35239","Mobiluncus","Mobiluncus mulieris",2380,51375
+"urogenital_tract","Mobiluncus mulieris ATCC 35243","Mobiluncus","Mobiluncus mulieris",2300,34633
+"urogenital_tract","Mobiluncus mulieris FB024-16","Mobiluncus","Mobiluncus mulieris",2113,51063
+"urogenital_tract","Mycobacterium parascrofulaceum ATCC BAA-614","Mycobacterium","Mycobacterium parascrofulaceum",6456,31521
+"urogenital_tract","Oligella urethralis DNF00040","Oligella","Oligella urethralis",2118,219661
+"urogenital_tract","Parvimonas sp. KA00067","Parvimonas",NA,1524,272073
+"urogenital_tract","Peptoniphilus duerdenii ATCC BAA-1640","Peptoniphilus","Peptoniphilus duerdenii",1988,50529
+"urogenital_tract","Peptoniphilus harei ACS-146-V-Sch2b","Peptoniphilus","Peptoniphilus harei",1724,54023
+"urogenital_tract","Peptoniphilus harei CMW7756A","Peptoniphilus","Peptoniphilus harei",1874,272121
+"urogenital_tract","Peptoniphilus lacrimalis 315-B","Peptoniphilus","Peptoniphilus lacrimalis",1589,34107
+"urogenital_tract","Peptoniphilus lacrimalis DNF00528","Peptoniphilus","Peptoniphilus lacrimalis",3237,219668
+"urogenital_tract","Peptostreptococcus anaerobius KA00810","Peptostreptococcus","Peptostreptococcus anaerobius",1849,272075
+"urogenital_tract","Peptostreptococcus sp. MV1","Peptostreptococcus",NA,1630,187470
+"urogenital_tract","Porphyromonadaceae bacterium KA00676",NA,NA,2195,272076
+"urogenital_tract","Porphyromonas asaccharolytica PR426713P-I","Porphyromonas","Porphyromonas asaccharolytica",1655,59515
+"urogenital_tract","Porphyromonas somerae KA00683","Porphyromonas","Porphyromonas somerae",2195,272077
+"urogenital_tract","Porphyromonas uenonis 60-3","Porphyromonas","Porphyromonas uenonis",1977,34101
+"urogenital_tract","Prevotella amnii CRIS 21A-A","Prevotella","Prevotella amnii",2023,40671
+"urogenital_tract","Prevotella amnii DNF00058","Prevotella","Prevotella amnii",2014,219662
+"urogenital_tract","Prevotella bivia DNF00188","Prevotella","Prevotella bivia",2063,187523
+"urogenital_tract","Prevotella bivia DNF00320","Prevotella","Prevotella bivia",2132,219665
+"urogenital_tract","Prevotella bivia DNF00650","Prevotella","Prevotella bivia",1973,219670
+"urogenital_tract","Prevotella bivia GED7760C","Prevotella","Prevotella bivia",2083,272110
+"urogenital_tract","Prevotella bivia JCVIHMP010","Prevotella","Prevotella bivia",2041,31377
+"urogenital_tract","Prevotella buccalis ATCC 35310","Prevotella","Prevotella buccalis",2456,40669
+"urogenital_tract","Prevotella buccalis DNF00853","Prevotella","Prevotella buccalis",2232,219672
+"urogenital_tract","Prevotella buccalis DNF00985","Prevotella","Prevotella buccalis",2062,219677
+"urogenital_tract","Prevotella corporis MJR7716","Prevotella","Prevotella corporis",2956,272118
+"urogenital_tract","Prevotella denticola CRIS 18C-A","Prevotella","Prevotella denticola",2701,61825
+"urogenital_tract","Prevotella denticola DNF00960","Prevotella","Prevotella denticola",2355,219676
+"urogenital_tract","Prevotella disiens DNF00882","Prevotella","Prevotella disiens",2350,219674
+"urogenital_tract","Prevotella disiens FB035-09AN","Prevotella","Prevotella disiens",2621,51065
+"urogenital_tract","Prevotella disiens JCM 6334 = ATCC 29426","Prevotella","Prevotella disiens",2810,181042
+"urogenital_tract","Prevotella histicola JCM 15637 = DNF00424","Prevotella","Prevotella histicola",2358,219666
+"urogenital_tract","Prevotella melaninogenica DNF00666","Prevotella","Prevotella melaninogenica",2174,219671
+"urogenital_tract","Prevotella oralis ATCC 33269","Prevotella","Prevotella oralis",2488,51495
+"urogenital_tract","Prevotella sp. BV3P1","Prevotella",NA,2318,89639
+"urogenital_tract","Prevotella sp. S7-1-8","Prevotella",NA,2240,187471
+"urogenital_tract","Prevotella sp. S7MS2","Prevotella",NA,2144,219649
+"urogenital_tract","Prevotella timonensis CRIS 5C-B1","Prevotella","Prevotella timonensis",2202,40667
+"urogenital_tract","Prevotella timonensis S9-PR14","Prevotella","Prevotella timonensis",2523,219657
+"urogenital_tract","Propionibacterium avidum MJR7694","Propionibacterium","Propionibacterium avidum",2374,272115
+"urogenital_tract","Propionibacterium sp. 409-HC1","Propionibacterium",NA,2500,64685
+"urogenital_tract","Propionibacterium sp. 434-HC2","Propionibacterium",NA,2499,64687
+"urogenital_tract","Propionimicrobium lymphophilum ACS-093-V-SCH5","Propionimicrobium","Propionimicrobium lymphophilum",2082,52123
+"urogenital_tract","Propionimicrobium sp. BV2F7","Propionimicrobium",NA,1835,89641
+"urogenital_tract","Proteus mirabilis ATCC 29906","Proteus","Proteus mirabilis",3812,31523
+"urogenital_tract","Proteus mirabilis GED7834","Proteus","Proteus mirabilis",3736,272095
+"urogenital_tract","Proteus mirabilis WGLW4","Proteus","Proteus mirabilis",3508,169467
+"urogenital_tract","Roseomonas cervicalis ATCC 49957","Roseomonas","Roseomonas cervicalis",4778,31527
+"urogenital_tract","Sphingobacterium spiritivorum ATCC 33300","Sphingobacterium","Sphingobacterium spiritivorum",4925,31529
+"urogenital_tract","Sphingobacterium spiritivorum ATCC 33861","Sphingobacterium","Sphingobacterium spiritivorum",4471,31531
+"urogenital_tract","Staphylococcus aureus PSS7673","Staphylococcus","Staphylococcus aureus",2772,272103
+"urogenital_tract","Staphylococcus aureus subsp. aureus MN8","Staphylococcus","Staphylococcus aureus",2833,31533
+"urogenital_tract","Staphylococcus epidermidis BVS058A4","Staphylococcus","Staphylococcus epidermidis",2439,52117
+"urogenital_tract","Staphylococcus haemolyticus DNF00585","Staphylococcus","Staphylococcus haemolyticus",2173,219669
+"urogenital_tract","Staphylococcus lugdunensis ACS-027-V-Sch2","Staphylococcus","Staphylococcus lugdunensis",2417,52127
+"urogenital_tract","Staphylococcus lugdunensis MJR7738","Staphylococcus","Staphylococcus lugdunensis",2438,272117
+"urogenital_tract","Staphylococcus simulans ACS-120-V-Sch1","Staphylococcus","Staphylococcus simulans",2473,52131
+"urogenital_tract","Staphylococcus simulans MJR7712","Staphylococcus","Staphylococcus simulans",2696,272107
+"urogenital_tract","Streptococcus agalactiae BV3L5","Streptococcus","Streptococcus agalactiae",2172,89643
+"urogenital_tract","Streptococcus agalactiae PSS_7568","Streptococcus","Streptococcus agalactiae",2122,254651
+"urogenital_tract","Streptococcus agalactiae PSS_7578","Streptococcus","Streptococcus agalactiae",2019,254653
+"urogenital_tract","Streptococcus agalactiae PSS_7625","Streptococcus","Streptococcus agalactiae",2081,254648
+"urogenital_tract","Streptococcus agalactiae PSS_7632a","Streptococcus","Streptococcus agalactiae",2261,254643
+"urogenital_tract","Streptococcus agalactiae PSS_7632b","Streptococcus","Streptococcus agalactiae",2253,254645
+"urogenital_tract","Streptococcus agalactiae PSS_7722","Streptococcus","Streptococcus agalactiae",2063,254654
+"urogenital_tract","Streptococcus bovis ATCC 700338","Streptococcus","Streptococcus bovis",2088,50519
+"urogenital_tract","Streptococcus mitis CMW7705B","Streptococcus","Streptococcus mitis",1954,272120
+"urogenital_tract","Streptococcus pseudoporcinus SPIN 20026","Streptococcus","Streptococcus pseudoporcinus",2030,59517
+"urogenital_tract","Streptococcus salivarius GED7778A","Streptococcus","Streptococcus salivarius",2317,272111
+"urogenital_tract","Streptococcus urinalis FB127-CNA-2","Streptococcus","Streptococcus urinalis",2203,52133
+"urogenital_tract","Treponema phagedenis F0421","Treponema","Treponema phagedenis",3146,47285
+"urogenital_tract","Veillonella atypica ACS-049-V-Sch6","Veillonella","Veillonella atypica",1840,51075
+"urogenital_tract","Veillonella atypica CMW7756B","Veillonella","Veillonella atypica",1973,272125
+"urogenital_tract","Veillonella montpellierensis DNF00314","Veillonella","Veillonella montpellierensis",1513,219664
+"urogenital_tract","Veillonella parvula","Veillonella","Veillonella parvula",1925,49441
+"urogenital_tract","Veillonella ratti ACS-216-V-Col6b","Veillonella","Veillonella ratti",2126,52119
+"urogenital_tract","Veillonellaceae bacterium DNF00626",NA,NA,1608,272083
+"urogenital_tract","Veillonellaceae bacterium KA00182",NA,NA,1514,272074

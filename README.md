@@ -75,6 +75,7 @@ Also available: [top 10 species by site](figures/species_by_site.png) and [top 1
 - **Gene count is a proxy for genome size.** In bacteria it tracks genome length closely (about 1 gene per kb), but it is not size in base pairs.
 - **Draft genomes** may slightly underestimate gene count. Assembly status is not used yet.
 - **318 genomes (21%) have an unknown body site** and are left out.
+- **Blood and heart are normally sterile.** Strains from these sites (mostly *Enterococcus* and *Streptococcus*) come from infections such as bacteremia or endocarditis, not from a resident microbiome. The HMP catalog mixes commensal and clinical isolates.
 
 ## How to reproduce
 

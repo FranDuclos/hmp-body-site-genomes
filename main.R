@@ -12,5 +12,6 @@ source(here("R", "02_add_taxonomy.R"))
 source(here("R", "03_plot_genus.R"))
 source(here("R", "04_plot_species.R"))
 source(here("R", "05_plot_gene_count.R"))
+source(here("R", "06_export_app_data.R"))
 
 message("Pipeline finished: figures saved in figures/")

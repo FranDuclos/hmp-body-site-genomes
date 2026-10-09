@@ -24,7 +24,7 @@ The HMP Project Catalog lists the reference genomes sequenced by the Human Micro
 |------------------------------------|------------------------------------|
 | File | `data/raw/project_catalog.csv` (2,915 rows, 17 columns) |
 | Downloaded from | [Kaggle: The Human Microbiome Project](https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project) (user bbhatt001) |
-| Original source | [Human Microbiome Project](https://hmpdacc.org/), funded by the NIH |
+| Original source | [Human Microbiome Project](https://commonfund.nih.gov/hmp), funded by the NIH |
 | Terms of use | License listed as *Unknown* on Kaggle. The HMP data are publicly available to the community free of charge ([AWS Registry of Open Data](https://registry.opendata.aws/human-microbiome-project/)) |
 | Download date | 2026-10-04 |
 

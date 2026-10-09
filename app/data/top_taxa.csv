@@ -1,0 +1,200 @@
+"body_site","level","name","n","share","group"
+"airways","genus","Streptococcus",12,22.6415094339623,FALSE
+"airways","genus","Neisseria",11,20.7547169811321,FALSE
+"airways","genus","Staphylococcus",4,7.54716981132075,FALSE
+"airways","genus","Actinomyces",3,5.66037735849057,FALSE
+"airways","genus","Corynebacterium",3,5.66037735849057,FALSE
+"airways","genus","Gemella",3,5.66037735849057,FALSE
+"airways","genus","Rothia",3,5.66037735849057,FALSE
+"airways","genus","Achromobacter",2,3.77358490566038,FALSE
+"airways","genus","Kingella",2,3.77358490566038,FALSE
+"airways","genus","Klebsiella",2,3.77358490566038,FALSE
+"airways","genus","Other genera",8,15.0943396226415,TRUE
+"airways","species","Corynebacterium accolens",2,3.77358490566038,FALSE
+"airways","species","Klebsiella pneumoniae",2,3.77358490566038,FALSE
+"airways","species","Neisseria mucosa",2,3.77358490566038,FALSE
+"airways","species","Rothia mucilaginosa",2,3.77358490566038,FALSE
+"airways","species","Staphylococcus aureus",2,3.77358490566038,FALSE
+"airways","species","Streptococcus pseudopneumoniae",2,3.77358490566038,FALSE
+"airways","species","Achromobacter piechaudii",1,1.88679245283019,FALSE
+"airways","species","Achromobacter xylosoxidans",1,1.88679245283019,FALSE
+"airways","species","Acinetobacter haemolyticus",1,1.88679245283019,FALSE
+"airways","species","Actinobacillus ureae",1,1.88679245283019,FALSE
+"airways","species","Other species",29,54.7169811320755,TRUE
+"airways","species","No species name",8,15.0943396226415,TRUE
+"all","genus","Streptococcus",160,10.6241699867198,FALSE
+"all","genus","Enterococcus",109,7.23771580345286,FALSE
+"all","genus","Propionibacterium",92,6.10889774236388,FALSE
+"all","genus","Helicobacter",70,4.64807436918991,FALSE
+"all","genus","Lactobacillus",66,4.38247011952191,FALSE
+"all","genus","Prevotella",64,4.24966799468791,FALSE
+"all","genus","Staphylococcus",64,4.24966799468791,FALSE
+"all","genus","Bacteroides",62,4.11686586985392,FALSE
+"all","genus","Escherichia",60,3.98406374501992,FALSE
+"all","genus","Clostridium",57,3.78486055776892,FALSE
+"all","genus","Other genera",666,44.2231075697211,TRUE
+"all","genus","No genus assigned",36,2.39043824701195,TRUE
+"all","species","Propionibacterium acnes",71,4.71447543160691,FALSE
+"all","species","Helicobacter pylori",63,4.18326693227092,FALSE
+"all","species","Escherichia coli",59,3.91766268260292,FALSE
+"all","species","Enterococcus faecalis",57,3.78486055776892,FALSE
+"all","species","Enterococcus faecium",48,3.18725099601594,FALSE
+"all","species","Staphylococcus epidermidis",37,2.45683930942895,FALSE
+"all","species","Streptococcus pneumoniae",23,1.52722443559097,FALSE
+"all","species","Gardnerella vaginalis",22,1.46082337317397,FALSE
+"all","species","Streptococcus sanguinis",21,1.39442231075697,FALSE
+"all","species","Streptococcus pyogenes",20,1.32802124833997,FALSE
+"all","species","Other species",795,52.7888446215139,TRUE
+"all","species","No species name",290,19.2563081009296,TRUE
+"blood","genus","Enterococcus",22,45.8333333333333,FALSE
+"blood","genus","Streptococcus",17,35.4166666666667,FALSE
+"blood","genus","Bacteroides",1,2.08333333333333,FALSE
+"blood","genus","Cardiobacterium",1,2.08333333333333,FALSE
+"blood","genus","Desmospora",1,2.08333333333333,FALSE
+"blood","genus","Gemella",1,2.08333333333333,FALSE
+"blood","genus","Haemophilus",1,2.08333333333333,FALSE
+"blood","genus","Parabacteroides",1,2.08333333333333,FALSE
+"blood","genus","Psychrobacter",1,2.08333333333333,FALSE
+"blood","genus","Sporosarcina",1,2.08333333333333,FALSE
+"blood","genus","Other genera",1,2.08333333333333,TRUE
+"blood","species","Enterococcus faecalis",15,31.25,FALSE
+"blood","species","Streptococcus sanguinis",9,18.75,FALSE
+"blood","species","Enterococcus faecium",7,14.5833333333333,FALSE
+"blood","species","Streptococcus mitis",3,6.25,FALSE
+"blood","species","Streptococcus oralis",2,4.16666666666667,FALSE
+"blood","species","Bacteroides massiliensis",1,2.08333333333333,FALSE
+"blood","species","Cardiobacterium hominis",1,2.08333333333333,FALSE
+"blood","species","Gemella bergeriae",1,2.08333333333333,FALSE
+"blood","species","Haemophilus sputorum",1,2.08333333333333,FALSE
+"blood","species","Parabacteroides gordonii",1,2.08333333333333,FALSE
+"blood","species","Other species",5,10.4166666666667,TRUE
+"blood","species","No species name",2,4.16666666666667,TRUE
+"gastrointestinal_tract","genus","Helicobacter",70,17.5879396984925,FALSE
+"gastrointestinal_tract","genus","Bacteroides",36,9.04522613065327,FALSE
+"gastrointestinal_tract","genus","Clostridium",36,9.04522613065327,FALSE
+"gastrointestinal_tract","genus","Escherichia",24,6.03015075376884,FALSE
+"gastrointestinal_tract","genus","Fusobacterium",21,5.27638190954774,FALSE
+"gastrointestinal_tract","genus","Lactobacillus",21,5.27638190954774,FALSE
+"gastrointestinal_tract","genus","Bifidobacterium",14,3.51758793969849,FALSE
+"gastrointestinal_tract","genus","Enterococcus",13,3.26633165829146,FALSE
+"gastrointestinal_tract","genus","Providencia",11,2.76381909547739,FALSE
+"gastrointestinal_tract","genus","Parabacteroides",8,2.01005025125628,FALSE
+"gastrointestinal_tract","genus","Other genera",138,34.6733668341709,TRUE
+"gastrointestinal_tract","genus","No genus assigned",6,1.50753768844221,TRUE
+"gastrointestinal_tract","species","Helicobacter pylori",63,15.8291457286432,FALSE
+"gastrointestinal_tract","species","Escherichia coli",23,5.77889447236181,FALSE
+"gastrointestinal_tract","species","Enterococcus faecalis",11,2.76381909547739,FALSE
+"gastrointestinal_tract","species","Fusobacterium nucleatum",8,2.01005025125628,FALSE
+"gastrointestinal_tract","species","Providencia alcalifaciens",8,2.01005025125628,FALSE
+"gastrointestinal_tract","species","Bifidobacterium longum",4,1.00502512562814,FALSE
+"gastrointestinal_tract","species","Lactobacillus reuteri",4,1.00502512562814,FALSE
+"gastrointestinal_tract","species","Clostridium difficile",3,0.753768844221106,FALSE
+"gastrointestinal_tract","species","Clostridium symbiosum",3,0.753768844221106,FALSE
+"gastrointestinal_tract","species","Sutterella wadsworthensis",3,0.753768844221106,FALSE
+"gastrointestinal_tract","species","Other species",187,46.9849246231156,TRUE
+"gastrointestinal_tract","species","No species name",81,20.3517587939699,TRUE
+"heart","genus","Streptococcus",2,100,FALSE
+"heart","species","Streptococcus gallolyticus",1,50,FALSE
+"heart","species","Streptococcus sanguinis",1,50,FALSE
+"liver","genus","Fusobacterium",1,100,FALSE
+"liver","species","Fusobacterium necrophorum",1,100,FALSE
+"lymph_nodes","genus","Enterococcus",1,100,FALSE
+"lymph_nodes","species","Enterococcus faecalis",1,100,FALSE
+"nose","genus","Staphylococcus",2,100,FALSE
+"nose","species","Staphylococcus aureus",2,100,FALSE
+"oral","genus","Streptococcus",65,20.7667731629393,FALSE
+"oral","genus","Prevotella",30,9.58466453674121,FALSE
+"oral","genus","Treponema",23,7.3482428115016,FALSE
+"oral","genus","Actinomyces",20,6.38977635782748,FALSE
+"oral","genus","Capnocytophaga",16,5.11182108626198,FALSE
+"oral","genus","Selenomonas",14,4.47284345047923,FALSE
+"oral","genus","Porphyromonas",11,3.51437699680511,FALSE
+"oral","genus","Eubacterium",9,2.87539936102236,FALSE
+"oral","genus","Fusobacterium",8,2.55591054313099,FALSE
+"oral","genus","Veillonella",8,2.55591054313099,FALSE
+"oral","genus","Other genera",99,31.629392971246,TRUE
+"oral","genus","No genus assigned",10,3.19488817891374,TRUE
+"oral","species","Treponema denticola",15,4.79233226837061,FALSE
+"oral","species","Streptococcus pyogenes",12,3.83386581469649,FALSE
+"oral","species","Streptococcus sanguinis",11,3.51437699680511,FALSE
+"oral","species","Porphyromonas gingivalis",7,2.23642172523962,FALSE
+"oral","species","Streptococcus anginosus",3,0.958466453674121,FALSE
+"oral","species","Streptococcus intermedius",3,0.958466453674121,FALSE
+"oral","species","Streptococcus mitis",3,0.958466453674121,FALSE
+"oral","species","Streptococcus oralis",3,0.958466453674121,FALSE
+"oral","species","Treponema socranskii",3,0.958466453674121,FALSE
+"oral","species","Actinomyces johnsonii",2,0.638977635782748,FALSE
+"oral","species","Other species",134,42.8115015974441,TRUE
+"oral","species","No species name",117,37.3801916932907,TRUE
+"skin","genus","Propionibacterium",72,57.6,FALSE
+"skin","genus","Staphylococcus",16,12.8,FALSE
+"skin","genus","Acinetobacter",10,8,FALSE
+"skin","genus","Streptococcus",8,6.4,FALSE
+"skin","genus","Corynebacterium",4,3.2,FALSE
+"skin","genus","Neisseria",2,1.6,FALSE
+"skin","genus","Rhodococcus",2,1.6,FALSE
+"skin","genus","Anaerococcus",1,0.8,FALSE
+"skin","genus","Bifidobacterium",1,0.8,FALSE
+"skin","genus","Dermacoccus",1,0.8,FALSE
+"skin","genus","Other genera",7,5.6,TRUE
+"skin","genus","No genus assigned",1,0.8,TRUE
+"skin","species","Propionibacterium acnes",71,56.8,FALSE
+"skin","species","Staphylococcus aureus",7,5.6,FALSE
+"skin","species","Streptococcus pyogenes",6,4.8,FALSE
+"skin","species","Staphylococcus epidermidis",5,4,FALSE
+"skin","species","Acinetobacter baumannii",3,2.4,FALSE
+"skin","species","Acinetobacter calcoaceticus",1,0.8,FALSE
+"skin","species","Acinetobacter johnsonii",1,0.8,FALSE
+"skin","species","Acinetobacter lwoffii",1,0.8,FALSE
+"skin","species","Acinetobacter radioresistens",1,0.8,FALSE
+"skin","species","Anaerococcus vaginalis",1,0.8,FALSE
+"skin","species","Other species",23,18.4,TRUE
+"skin","species","No species name",5,4,TRUE
+"unknown","genus","Enterococcus",63,19.811320754717,FALSE
+"unknown","genus","Streptococcus",40,12.5786163522013,FALSE
+"unknown","genus","Escherichia",35,11.0062893081761,FALSE
+"unknown","genus","Staphylococcus",32,10.062893081761,FALSE
+"unknown","genus","Bacteroides",24,7.54716981132075,FALSE
+"unknown","genus","Clostridium",19,5.9748427672956,FALSE
+"unknown","genus","Corynebacterium",15,4.71698113207547,FALSE
+"unknown","genus","Propionibacterium",11,3.45911949685535,FALSE
+"unknown","genus","Klebsiella",10,3.14465408805031,FALSE
+"unknown","genus","Haemophilus",6,1.88679245283019,FALSE
+"unknown","genus","Other genera",57,17.9245283018868,TRUE
+"unknown","genus","No genus assigned",6,1.88679245283019,TRUE
+"unknown","species","Enterococcus faecium",39,12.2641509433962,FALSE
+"unknown","species","Escherichia coli",35,11.0062893081761,FALSE
+"unknown","species","Staphylococcus epidermidis",31,9.74842767295597,FALSE
+"unknown","species","Enterococcus faecalis",24,7.54716981132075,FALSE
+"unknown","species","Streptococcus pneumoniae",21,6.60377358490566,FALSE
+"unknown","species","Bacteroides fragilis",9,2.83018867924528,FALSE
+"unknown","species","Klebsiella oxytoca",9,2.83018867924528,FALSE
+"unknown","species","Clostridium clostridioforme",8,2.51572327044025,FALSE
+"unknown","species","Myroides odoratimimus",6,1.88679245283019,FALSE
+"unknown","species","Clostridium bolteae",5,1.57232704402516,FALSE
+"unknown","species","Other species",85,26.7295597484277,TRUE
+"unknown","species","No species name",46,14.4654088050314,TRUE
+"urogenital_tract","genus","Lactobacillus",40,16.3265306122449,FALSE
+"urogenital_tract","genus","Prevotella",24,9.79591836734694,FALSE
+"urogenital_tract","genus","Gardnerella",22,8.97959183673469,FALSE
+"urogenital_tract","genus","Streptococcus",12,4.89795918367347,FALSE
+"urogenital_tract","genus","Corynebacterium",11,4.48979591836735,FALSE
+"urogenital_tract","genus","Actinomyces",9,3.6734693877551,FALSE
+"urogenital_tract","genus","Mobiluncus",8,3.26530612244898,FALSE
+"urogenital_tract","genus","Staphylococcus",8,3.26530612244898,FALSE
+"urogenital_tract","genus","Anaerococcus",7,2.85714285714286,FALSE
+"urogenital_tract","genus","Bifidobacterium",7,2.85714285714286,FALSE
+"urogenital_tract","genus","Other genera",84,34.2857142857143,TRUE
+"urogenital_tract","genus","No genus assigned",13,5.30612244897959,TRUE
+"urogenital_tract","species","Gardnerella vaginalis",22,8.97959183673469,FALSE
+"urogenital_tract","species","Lactobacillus iners",14,5.71428571428571,FALSE
+"urogenital_tract","species","Lactobacillus crispatus",8,3.26530612244898,FALSE
+"urogenital_tract","species","Streptococcus agalactiae",7,2.85714285714286,FALSE
+"urogenital_tract","species","Lactobacillus jensenii",6,2.44897959183673,FALSE
+"urogenital_tract","species","Enterococcus faecalis",5,2.04081632653061,FALSE
+"urogenital_tract","species","Finegoldia magna",5,2.04081632653061,FALSE
+"urogenital_tract","species","Lactobacillus gasseri",5,2.04081632653061,FALSE
+"urogenital_tract","species","Prevotella bivia",5,2.04081632653061,FALSE
+"urogenital_tract","species","Mobiluncus curtisii",4,1.63265306122449,FALSE
+"urogenital_tract","species","Other species",133,54.2857142857143,TRUE
+"urogenital_tract","species","No species name",31,12.6530612244898,TRUE

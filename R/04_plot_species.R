@@ -74,7 +74,7 @@ ggsave(
   filename = here("figures", "species_by_site.png"),
   plot     = species_plot,
   width    = 11, height = 8, dpi = 300,
-  device = ragg::agg_png
+  device   = ragg::agg_png  # same PNG engine on every machine (see renv.lock)
 )
 
 stopifnot(file.exists(here("figures", "species_by_site.png")))

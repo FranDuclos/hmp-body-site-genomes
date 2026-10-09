@@ -73,7 +73,8 @@ dir.create(here("figures"), showWarnings = FALSE)
 ggsave(
   filename = here("figures", "gene_count_by_site.png"),
   plot     = gene_count_plot,
-  width    = 9, height = 5, dpi = 300
+  width    = 9, height = 5, dpi = 300,
+  device   = ragg::agg_png  # same PNG engine on every machine (see renv.lock)
 )
 
 stopifnot(file.exists(here("figures", "gene_count_by_site.png")))
@@ -113,8 +114,8 @@ gene_count_species_plot <- ggplot(
 ggsave(
   filename = here("figures", "gene_count_by_site_species.png"),
   plot     = gene_count_species_plot,
-  width    = 9, height = 5, dpi = 300, 
-  device = ragg::agg_png
+  width    = 9, height = 5, dpi = 300,
+  device   = ragg::agg_png  # same PNG engine on every machine (see renv.lock)
 )
 
 stopifnot(file.exists(here("figures", "gene_count_by_site_species.png")))

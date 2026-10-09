@@ -95,14 +95,15 @@ dir.create(here("figures"), showWarnings = FALSE)
 ggsave(
   filename = here("figures", "genus_by_site.png"),
   plot     = genus_plot_top10,
-  width    = 10, height = 7, dpi = 300
+  width    = 10, height = 7, dpi = 300,
+  device   = ragg::agg_png  # same PNG engine on every machine (see renv.lock)
 )
 
 ggsave(
   filename = here("figures", "genus_by_site_other.png"),
   plot     = genus_plot_other,
   width    = 10, height = 7, dpi = 300,
-  device = ragg::agg_png
+  device   = ragg::agg_png  # same PNG engine on every machine (see renv.lock)
 )
 
 stopifnot(file.exists(here("figures", c("genus_by_site.png",
